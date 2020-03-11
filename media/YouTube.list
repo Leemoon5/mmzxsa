@@ -1,8 +1,7 @@
 # > YouTube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-HOST-KEYWORD,youtube
-HOST-SUFFIX,googlevideo.com
-HOST-SUFFIX,gvt2.com
-HOST-SUFFIX,youtu.be
-HOST,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube.com,proxy
+DOMAIN-KEYWORD,youtube,YouTube
+DOMAIN-SUFFIX,googlevideo.com,YouTube
+DOMAIN-SUFFIX,gvt2.com,YouTube
+DOMAIN-SUFFIX,youtu.be,YouTube
+DOMAIN,youtubei.googleapis.com,YouTube

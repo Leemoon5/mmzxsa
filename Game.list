@@ -1,6 +1,9 @@
+  # > Blizzard
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN,blzddist1-a.akamaihd.net
+
+  # > superevil
   - DOMAIN-SUFFIX,preauth.superevil.net
   - DOMAIN-SUFFIX,platform.superevil.net
   - DOMAIN-SUFFIX,gamefeeds.superevilmegacorp.net

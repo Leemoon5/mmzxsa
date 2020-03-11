@@ -9,14 +9,6 @@ HOST-SUFFIX,akamaized.net
 HOST-SUFFIX,ameba.jp
 HOST-SUFFIX,hayabusa.io
 
-# > Amazon Prime Video
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
-HOST-SUFFIX,aiv-cdn.net
-HOST-SUFFIX,amazonaws.com
-HOST-SUFFIX,amazonvideo.com
-HOST-SUFFIX,llnwd.net
-
 # > Bahamut
 USER-AGENT,Anime*
 HOST-SUFFIX,bahamut.com.tw
@@ -116,25 +108,6 @@ HOST-KEYWORD,rthklive
 HOST-SUFFIX,mytvsuper.com
 HOST-SUFFIX,tvb.com
 
-# > Netflix
-USER-AGENT,Argo*
-HOST-SUFFIX,netflix.com
-HOST-SUFFIX,netflix.net
-HOST-SUFFIX,nflxext.com
-HOST-SUFFIX,nflximg.com
-HOST-SUFFIX,nflximg.net
-HOST-SUFFIX,nflxso.net
-HOST-SUFFIX,nflxvideo.net
-IP-CIDR,23.246.0.0/18
-IP-CIDR,37.77.184.0/21
-IP-CIDR,45.57.0.0/17
-IP-CIDR,64.120.128.0/17
-IP-CIDR,66.197.128.0/17
-IP-CIDR,108.175.32.0/20
-IP-CIDR,192.173.64.0/18
-IP-CIDR,198.38.96.0/19
-IP-CIDR,198.45.48.0/20
-
 # > Pandora
 HOST-SUFFIX,pandora.com
 
@@ -154,7 +127,6 @@ HOST-SUFFIX,pscdn.co
 HOST-SUFFIX,scdn.co
 HOST-SUFFIX,spoti.fi
 HOST-SUFFIX,spotify.com
-
 
 # > viuTV
 USER-AGENT,ViuTV*
