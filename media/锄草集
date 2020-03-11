@@ -155,14 +155,6 @@ HOST-SUFFIX,scdn.co
 HOST-SUFFIX,spoti.fi
 HOST-SUFFIX,spotify.com
 
-# > YouTube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-HOST-KEYWORD,youtube
-HOST-SUFFIX,googlevideo.com
-HOST-SUFFIX,gvt2.com
-HOST-SUFFIX,youtu.be
-HOST,youtubei.googleapis.com
 
 # > viuTV
 USER-AGENT,ViuTV*
