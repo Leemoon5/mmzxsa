@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,skype.com
 
 DOMAIN-SUFFIX,1drv.com
@@ -19,10 +20,27 @@ DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,oneclient.sfx.ms
+
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,translator.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,onenote.com 
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
-
-
-
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN,officecdn-microsoft-com.akamaized.net
 
 
 

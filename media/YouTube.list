@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,googlevideo.com,YouTube
 DOMAIN-SUFFIX,gvt2.com,YouTube
 DOMAIN-SUFFIX,youtu.be,YouTube
 DOMAIN,youtubei.googleapis.com,YouTube
+
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
