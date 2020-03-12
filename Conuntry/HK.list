@@ -1,11 +1,11 @@
 # > encoreTVB
-USER-AGENT,encoreTVB*
+# USER-AGENT,encoreTVB*
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 
 # > HBO GO HKG
-USER-AGENT,HBO%20GO%20PROD%20HKG*
+# USER-AGENT,HBO%20GO%20PROD%20HKG*
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN,bcbolthboa-a.akamaihd.net
@@ -21,17 +21,17 @@ DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 
 # > 华文电视
-USER-AGENT,HWTVMobile*
+# USER-AGENT,HWTVMobile*
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
 
 # > JOOX
-USER-AGENT,WeMusic*
-USER-AGENT,JOOX*
+# USER-AGENT,WeMusic*
+# USER-AGENT,JOOX*
 DOMAIN-SUFFIX,joox.com
 
 # > myTV_SUPER
-USER-AGENT,mytv*
+# USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 
@@ -41,18 +41,18 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 
 # > SoundCloud
-USER-AGENT,SoundCloud*
+# USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 
 # > TIDAL
-USER-AGENT,TIDAL*dia
+# USER-AGENT,TIDAL*dia
 DOMAIN-SUFFIX,tidal.comdia
 
 # > Viu(TV)
-USER-AGENT,Viu*
-USER-AGENT,ViuTV*
+# USER-AGENT,Viu*
+# USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN,api.viu.now.com
@@ -73,7 +73,7 @@ DOMAIN-SUFFIX,japronx.net
 DOMAIN-SUFFIX,japronx.vip
 
 # > Now E
-USER-AGENT,PCCW*
+# USER-AGENT,PCCW*
 DOMAIN-KEYWORD,nowe
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
