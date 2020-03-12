@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
 
+# > YouTube
+DOMAIN-SUFFIX,youtube.com
 
 # > CBS
 DOMAIN-SUFFIX,cbs.com

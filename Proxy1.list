@@ -12,9 +12,6 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,play.googleapis.com
 
-# > YouTube
-DOMAIN-SUFFIX,youtube.com
-
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
