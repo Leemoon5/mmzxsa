@@ -1,10 +1,9 @@
 # > YouTube
-DOMAIN-SUFFIX,youtube.com,proxy
-DOMAIN-KEYWORD,youtube,YouTube
-DOMAIN-SUFFIX,googlevideo.com,YouTube
-DOMAIN-SUFFIX,gvt2.com,YouTube
-DOMAIN-SUFFIX,youtu.be,YouTube
-DOMAIN,youtubei.googleapis.com,YouTube
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN,youtubei.googleapis.com
 
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*

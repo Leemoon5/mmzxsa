@@ -1,0 +1,43 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+bind-address: "*"
+# 此功能仅在 allow-lan 设置为 true 时生效，支持三种参数：
+# "*"                           绑定所有的 IP 地址
+# 192.168.122.11                绑定一个的 IPv4 地址
+# "[aaaa::a8aa:ff:fe09:57d8]"   绑定一个 IPv6 地址
+mode: Rule
+# 5 个级别：silent / info / warning / error / debug。silent，即不输出任何内容,级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
+log-level: info
+# clash 的 RESTful API
+external-controller: 127.0.0.1:9090
+# 如需要自定义DNS，请将 “enable” 处的 false 改为 true
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip # 或 redir-host
+  # # fake-ip-range: 198.18.0.1/16 # 如果你不知道这个参数的作用，请勿修改
+  # fake-ip-filter: # fake-ip 白名单列表
+  #   - '*.lan'
+  #   - localhost.ptlogin2.qq.com
+  nameserver:
+    - 1.2.4.8
+    - 114.114.114.114
+    - 223.5.5.5
+    - tls://13800000000.rubyfish.cn:853
+    #- https://13800000000.rubyfish.cn/
+  fallback: # 与 nameserver 内的服务器列表同时发起请求，当规则符合 GEOIP 在 CN 以外时，fallback 列表内的域名服务器生效。
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+    - tls://13800000000.rubyfish.cn:853
+
+    #- https://13800000000.rubyfish.cn/
+    #- https://cloudflare-dns.com/dns-query
+    #- https://dns.google/dns-query
+experimental:
+  interface-name: WLAN # WLAN 为物理网卡名
+fallback-filter:
+geoip: true # 默认
+ipcidr: # 在这个网段内的 IP 地址会被考虑为被污染的 IP
+  - 240.0.0.0/4
