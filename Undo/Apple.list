@@ -39,17 +39,9 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 
-
-
-# > Apple
-# >> TestFlight
 DOMAIN,testflight.apple.com
-# >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
-# >> iBooks Store download
 DOMAIN,books.itunes.apple.com
-# >> iTunes Store Moveis Trailers
 DOMAIN,hls.itunes.apple.com
-# >> App Store Preview
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
