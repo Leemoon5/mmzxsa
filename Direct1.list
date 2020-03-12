@@ -21,28 +21,25 @@ PROCESS-NAME,WebTorrent Helper
 # bt
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
-URL-REGEX,(Subject|HELO|SMTP)
-URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
-URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
-URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
+# URL-REGEX,(Subject|HELO|SMTP)
+# URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+# URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
+# URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
 # XunLei
-URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+# URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 PROCESS-NAME,DownloadService
 # 360
-URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
+# URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 # Tencent Weiyun
-PROCESS-NAME,Weiyun
+# PROCESS-NAME,Weiyun
+
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhimg.com
-# > Akamai
-DOMAIN-SUFFIX,akadns.net
-# DOMAIN-SUFFIX,akamai.net
-# DOMAIN-SUFFIX,akamaiedge.net
-# DOMAIN-SUFFIX,akamaihd.net
-# DOMAIN-SUFFIX,akamaistream.net
-# DOMAIN-SUFFIX,akamaized.net
 # > Alibaba
 USER-AGENT,%E4%BC%98%E9%85%B7*
 DOMAIN-SUFFIX,alibaba.com
