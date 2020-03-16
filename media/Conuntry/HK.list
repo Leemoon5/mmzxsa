@@ -5,7 +5,6 @@ DOMAIN-SUFFIX,71.am
 
 # > bilibili
 DOMAIN-SUFFIX,bilibili.tv
-USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
@@ -20,13 +19,11 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 
 # > encoreTVB
-# USER-AGENT,encoreTVB*
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 
 # > HBO GO HKG
-# USER-AGENT,HBO%20GO%20PROD%20HKG*
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN,bcbolthboa-a.akamaihd.net
@@ -59,6 +56,7 @@ DOMAIN-SUFFIX,tvb.com
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhubpremium.com
 
 # > SoundCloud
@@ -68,12 +66,9 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 
 # > TIDAL
-# USER-AGENT,TIDAL*dia
 DOMAIN-SUFFIX,tidal.comdia
 
 # > Viu(TV)
-# USER-AGENT,Viu*
-# USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN,api.viu.now.com
@@ -94,7 +89,6 @@ DOMAIN-SUFFIX,japronx.net
 DOMAIN-SUFFIX,japronx.vip
 
 # > Now E
-# USER-AGENT,PCCW*
 DOMAIN-KEYWORD,nowe
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
