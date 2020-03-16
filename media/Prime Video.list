@@ -1,9 +1,6 @@
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,primevideo.com

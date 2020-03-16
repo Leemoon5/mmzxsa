@@ -1,23 +1,4 @@
 # > Apple
-USER-AGENT,%E5%9C%B0%E5%9B%BE*
-USER-AGENT,%E8%AE%BE%E7%BD%AE*
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,AppleNews*
-USER-AGENT,AppStore*
-USER-AGENT,com.apple.appstored*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.news*
-USER-AGENT,FindMyFriends*
-USER-AGENT,FindMyiPhone*
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,Maps*
-USER-AGENT,TestFlight*
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com
@@ -34,7 +15,6 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN,www-cdn.icloud.com.akadns.net
-# > Apple TV
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com

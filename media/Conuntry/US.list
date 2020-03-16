@@ -42,6 +42,7 @@ DOMAIN-KEYWORD,-spotify-com
 
 # > YouTube
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,onlineyoutube.com
 
 # > CBS
 DOMAIN-SUFFIX,cbs.com
