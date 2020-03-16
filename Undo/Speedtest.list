@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,fast.com
 # > Speedtest
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
