@@ -1,6 +1,8 @@
 # > Blizzard
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,blzddist1-a.akamaihd.net
 
 # > superevil
@@ -9,3 +11,4 @@ DOMAIN-SUFFIX,platform.superevil.net
 DOMAIN-SUFFIX,gamefeeds.superevilmegacorp.net
 DOMAIN-SUFFIX,live-na-4-12-rpc.superevil.net
 DOMAIN-SUFFIX,static.superevil.net
+

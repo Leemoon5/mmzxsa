@@ -84,13 +84,11 @@
  DOMAIN-SUFFIX,artstation.com
  DOMAIN-SUFFIX,arukas.io
  DOMAIN-SUFFIX,ask.com
- DOMAIN-SUFFIX,aspnetcdn.com
  DOMAIN-SUFFIX,async.be
  DOMAIN-SUFFIX,att.com
  DOMAIN-SUFFIX,avg.com
  DOMAIN-SUFFIX,avgle.com
  DOMAIN-SUFFIX,awsstatic.com
- DOMAIN-SUFFIX,azureedge.net
  DOMAIN-SUFFIX,azurewebsites.net
 # B
  DOMAIN-SUFFIX,badoo.com
@@ -255,7 +253,6 @@
  DOMAIN-SUFFIX,edditstatic.com
  DOMAIN-SUFFIX,edgecastcdn.net
  DOMAIN-SUFFIX,edgekey.net
- DOMAIN-SUFFIX,edgesuite.net
  DOMAIN-SUFFIX,edu
  DOMAIN-SUFFIX,elpais.com
  DOMAIN-SUFFIX,enanyang.my
@@ -662,7 +659,6 @@
  DOMAIN-SUFFIX,seatguru.com
  DOMAIN-SUFFIX,servebom.com
  DOMAIN-SUFFIX,sexinsex.net
- DOMAIN-SUFFIX,sfx.ms
  DOMAIN-SUFFIX,shadowsocks.org
  DOMAIN-SUFFIX,shadowverse.jp
  DOMAIN-SUFFIX,sharethis.com
