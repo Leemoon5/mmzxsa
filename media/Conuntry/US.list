@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbomax.com
 
-
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
@@ -42,6 +41,7 @@ DOMAIN-KEYWORD,-spotify-com
 
 # > YouTube
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,onlineyoutube.com
 
 # > CBS
