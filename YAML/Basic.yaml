@@ -9,20 +9,20 @@ dns:
   enable: true
   ipv6: false
   listen: 0.0.0.0:53
-  enhanced-mode: fake-ip 
+  enhanced-mode: redir-host # fake-ip
   nameserver:
     - 1.2.4.8
     - 114.114.114.114
     - 223.5.5.5
     - tls://13800000000.rubyfish.cn:853
-    #- https://13800000000.rubyfish.cn/
+    - https://13800000000.rubyfish.cn/
   fallback:
     - tls://1.0.0.1:853
     - tls://dns.google:853
     - tls://13800000000.rubyfish.cn:853
-    #- https://13800000000.rubyfish.cn/
-    #- https://cloudflare-dns.com/dns-query
-    #- https://dns.google/dns-query
+    - https://13800000000.rubyfish.cn/
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
 experimental:
   interface-name: Wi-Fi 2 # WLAN 为物理网卡名
 fallback-filter:
