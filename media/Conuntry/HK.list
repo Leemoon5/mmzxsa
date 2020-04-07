@@ -1,27 +1,9 @@
-# (HKMTMedia)
-# > 愛奇藝台灣站
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,71.am
-
-# > bilibili
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-KEYWORD,bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-
 # > encoreTVB
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
 
 # > HBO GO HKG
 DOMAIN-SUFFIX,hbogoasia.com
@@ -52,12 +34,6 @@ DOMAIN-SUFFIX,joox.com
 # USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhubpremium.com
 
 # > SoundCloud
 # USER-AGENT,SoundCloud*
@@ -93,9 +69,3 @@ DOMAIN-KEYWORD,nowe
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youboranqs01.com
-
-# > avgle
-DOMAIN-KEYWORD,cdn.qooqlevideo.com
-DOMAIN-KEYWORD,avgle.com
-DOMAIN,avgle
-DOMAIN,gooqlevideo
