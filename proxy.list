@@ -59,7 +59,6 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobeoobe.com
 DOMAIN-SUFFIX,adobesc.com
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,akamai.net
@@ -881,7 +880,6 @@ DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pcloud.com
 DOMAIN-SUFFIX,pdfexpert.com
-DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,piaotian.net
 DOMAIN-SUFFIX,picacomic.com
@@ -941,7 +939,6 @@ DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,protonstatus.com
 DOMAIN-SUFFIX,proxfree.com
 DOMAIN-SUFFIX,proxifier.com
-DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,pt.im
 DOMAIN-SUFFIX,pts.org.tw
@@ -1101,7 +1098,6 @@ DOMAIN-SUFFIX,sydneytoday.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.co,force-remote-dns
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tablesgenerator.com
@@ -1123,7 +1119,6 @@ DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telekom.de
-DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,textnow.me
@@ -1176,27 +1171,18 @@ DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tvboxnow.com
-DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.com,force-remote-dns
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.com,force-remote-dns
-DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitter4j.org,force-remote-dns
 DOMAIN-SUFFIX,twittercounter.com,force-remote-dns
 DOMAIN-SUFFIX,twitterfeed.com,force-remote-dns
 DOMAIN-SUFFIX,twittergadget.com,force-remote-dns
-DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterrific.com,force-remote-dns
-DOMAIN-SUFFIX,twitterstat.us
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twitthat.com,force-remote-dns
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twtkr.com,force-remote-dns
-DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.com,force-remote-dns
 DOMAIN-SUFFIX,txmblr.com
@@ -1305,7 +1291,6 @@ DOMAIN-SUFFIX,vidinfo.org
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vimperator.org
-DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,visibletweets.com
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,vk.com
@@ -1445,7 +1430,6 @@ IP-CIDR,103.27.148.0/22
 IP-CIDR,103.4.96.0/22
 IP-CIDR,103.4.96.0/22,no-resolve
 IP-CIDR,104.143.229.0/24,no-resolve
-IP-CIDR,104.244.42.0/21,no-resolve
 IP-CIDR,108.168.174.0/27,no-resolve
 IP-CIDR,108.168.176.192/26,no-resolve
 IP-CIDR,108.168.177.0/27,no-resolve
@@ -1515,13 +1499,8 @@ IP-CIDR,18.232.0.0/14,no-resolve
 IP-CIDR,185.32.187.0/24,no-resolve
 IP-CIDR,185.60.216.0/22
 IP-CIDR,185.60.216.0/22,no-resolve
-IP-CIDR,192.133.76.0/22,no-resolve
-IP-CIDR,199.16.156.0/22,no-resolve
 IP-CIDR,199.21.96.0/22,no-resolve
 IP-CIDR,199.36.240.0/22,no-resolve
-IP-CIDR,199.59.148.0/22,no-resolve
-IP-CIDR,199.96.56.0/21,no-resolve
-IP-CIDR,202.160.128.0/22,no-resolve
 IP-CIDR,203.104.103.0/24
 IP-CIDR,203.104.128.0/20
 IP-CIDR,203.104.144.0/21,no-resolve
@@ -1531,7 +1510,6 @@ IP-CIDR,204.15.20.0/22
 IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,208.43.0.0/16
 IP-CIDR,208.43.0.0/16,no-resolve
-IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,213.180.192.0/19,no-resolve
 IP-CIDR,213.180.199.0/24,no-resolve
 IP-CIDR,213.180.202.0/24,no-resolve
@@ -1590,7 +1568,6 @@ IP-CIDR,66.220.144.0/20
 IP-CIDR,66.220.144.0/20,no-resolve
 IP-CIDR,69.171.224.0/19
 IP-CIDR,69.171.224.0/19,no-resolve
-IP-CIDR,69.195.160.0/19,no-resolve
 IP-CIDR,69.63.176.0/20
 IP-CIDR,69.63.176.0/20,no-resolve
 IP-CIDR,74.119.76.0/22
