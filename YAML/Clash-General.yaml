@@ -6,25 +6,22 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:8080
 secret: ''
-cfw-latency-url: https://connectivitycheck.gstatic.com/generate_204
-cfw-latency-timeout: 3000
 experimental:
   ignore-resolve-fail: true # ignore dns resolve fail, default value is true
-  interface-name: Wi-Fi 2 # outbound interface name
-#authentication:
-#  - "firefly:960923"
-hosts:
-##
+  interface-name: Wi-Fi # outbound interface name
 dns:
   enable: true
   ipv6: false
-  listen: 127.0.0.1:53
-  enhanced-mode: redir-host # redir-host #fake-ip
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip # redir-host #fake-ip
   fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
   fake-ip-filter: # fake ip white domain list
     - '*.lan'
     - '*.msftconnecttest.com'
     - '*.msftncsi.com'
+    - 'dns.msftncsi.com'
+    - 'www.msftconnecttest.com'
+    - 'www.msftncsi.com'
     - localhost.ptlogin2.qq.com
     - msftconnecttest.com
     - msftncsi.com
