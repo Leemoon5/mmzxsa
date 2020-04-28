@@ -1,3 +1,3 @@
 # mmzxsa
-Some rule
+Some rule list
 RRemoved
