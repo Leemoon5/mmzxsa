@@ -17,10 +17,10 @@ dns:
   fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
   fake-ip-filter: # fake ip white domain list
     - '*.lan'
-    - 'www.msftncsi.com'
-    - localhost.ptlogin2.qq.com
     - 'dns.msftncsi.com'
     - 'www.msftconnecttest.com'
+    - 'www.msftncsi.com'
+    - localhost.ptlogin2.qq.com
   nameserver:
     # - 119.29.29.29
     # - 223.5.5.5
