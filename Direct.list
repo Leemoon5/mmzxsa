@@ -392,9 +392,6 @@ DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 # > Tencent
-USER-AGENT,MicroMessenger%20Client
-USER-AGENT,WeChat*
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
@@ -406,6 +403,35 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN,file-igamecj.akamaized.net
+DOMAIN-SUFFIX,apcdns.net
+DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,foxmail.com.cn
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,gtimg.com.cn
+DOMAIN-SUFFIX,imqq.com
+DOMAIN-SUFFIX,tencentyun.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qcloudimg.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,qzone.com
+DOMAIN-SUFFIX,tencent.com.cn
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wegame.com
+DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,url.cn
+DOMAIN-SUFFIX,qtimg.cn
+DOMAIN-SUFFIX,soso.com
+DOMAIN-SUFFIX,tencentmind.com
+DOMAIN-SUFFIX,weixin.com
+# >> Tencent Video
+DOMAIN-SUFFIX,video.qq.com
+# >> QQ Music
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN-SUFFIX,aqqmusic.tc.qq.com
 ## > 华为
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,hicloud.com
@@ -612,3 +638,4 @@ DOMAIN,mtalk.google.com
 DOMAIN,vd.l.qq.com
 DOMAIN-KEYWORD,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,googletraveladservices.com
+
