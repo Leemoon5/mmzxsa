@@ -31,13 +31,15 @@ USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
 
 # > Spotify
-USER-AGENT,Spotify*
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
+DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.net
+IP-CIDR,35.186.224.47/32,no-resolve
 
 # > CBS
 DOMAIN-SUFFIX,cbs.com
