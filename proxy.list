@@ -43,7 +43,6 @@ DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthisedge.com
@@ -379,7 +378,6 @@ DOMAIN-SUFFIX,elpais.com
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,encyclopedia.com
 DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,entermediadb.net
 DOMAIN-SUFFIX,entermediadb.org
 DOMAIN-SUFFIX,enterprisessl.com
@@ -494,7 +492,6 @@ DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gigacircle.com
 DOMAIN-SUFFIX,git.io
-
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.com
@@ -574,7 +571,6 @@ DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,identrust.co.uk
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,identrust.net
-DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,ifttt.com
@@ -589,8 +585,6 @@ DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,initiummall.com
 DOMAIN-SUFFIX,insder.co
 DOMAIN-SUFFIX,insecam.org
-
-
 DOMAIN-SUFFIX,instantssl.com
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,instructables.com
@@ -766,7 +760,6 @@ DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,nasa.gov
 DOMAIN-SUFFIX,nationwide.com
-DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,naughtyamerica.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,naver.jp
@@ -959,7 +952,6 @@ DOMAIN-SUFFIX,rarbgproxy.org
 DOMAIN-SUFFIX,rarbgs.com
 DOMAIN-SUFFIX,rarbgunblock.com
 DOMAIN-SUFFIX,rawgit.com
-
 DOMAIN-SUFFIX,readingtimes.com.tw
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,redbubble.com
@@ -992,11 +984,8 @@ DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com
 DOMAIN-SUFFIX,sciencedaily.com
-DOMAIN-SUFFIX,sciencedirect.com
-DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,scieron.com
 DOMAIN-SUFFIX,scmp.com
-DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,search.aol.com
@@ -1042,7 +1031,6 @@ DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,sparknotes.com
 DOMAIN-SUFFIX,speedsmart.net
 DOMAIN-SUFFIX,spike.com
-DOMAIN-SUFFIX,springerlink.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,ssa.gov
 DOMAIN-SUFFIX,ssl-images-amazon.com
@@ -1176,7 +1164,6 @@ DOMAIN-SUFFIX,udnbkk.com
 DOMAIN-SUFFIX,ugo.com
 DOMAIN-SUFFIX,uhdwallpapers.org
 DOMAIN-SUFFIX,ulyssesapp.com
-DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,unblockdmm.com
 DOMAIN-SUFFIX,unblocksites.co
 DOMAIN-SUFFIX,unfiltered.news
