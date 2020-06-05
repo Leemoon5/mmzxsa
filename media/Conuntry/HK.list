@@ -19,31 +19,25 @@ DOMAIN,hboasia3-i.akamaihd.net
 DOMAIN,hboasia4-i.akamaihd.net
 DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
-
 # > 华文电视
 # USER-AGENT,HWTVMobile*
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
-
 # > JOOX
 # USER-AGENT,WeMusic*
 # USER-AGENT,JOOX*
 DOMAIN-SUFFIX,joox.com
-
 # > myTV_SUPER
 # USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-
 # > SoundCloud
 # USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
-
 # > TIDAL
 DOMAIN-SUFFIX,tidal.comdia
-
 # > Viu(TV)
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
@@ -51,7 +45,6 @@ DOMAIN,api.viu.now.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
-
 # > Japonx
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
@@ -63,9 +56,7 @@ DOMAIN-SUFFIX,japronx.com
 DOMAIN-SUFFIX,japronx.tv
 DOMAIN-SUFFIX,japronx.net
 DOMAIN-SUFFIX,japronx.vip
-
 # > Now E
 DOMAIN-KEYWORD,nowe
-DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youboranqs01.com

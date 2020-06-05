@@ -1,4 +1,9 @@
-# > ACM
+# > Customer
+DOMAIN-SUFFIX,vmware.com
+# > AirPlan
+DOMAIN-KEYWORD,dlercloud
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,renzhe.cloud
 ## > Adblockplus
 DOMAIN-SUFFIX,adblockplus.org
 # > AddThis
@@ -137,10 +142,6 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
-## > DMM
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmm-extension.com
 ## > Docker
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,dockerhub.com
@@ -621,14 +622,9 @@ DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telekom.de
 ## > TikTok-Global
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-KEYWORD,-tiktokcdn-com
 # > Trustwave
 DOMAIN-SUFFIX,trustwave.com
 # > Tsquare
@@ -800,16 +796,11 @@ DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,now.sh
-# > AirPlan
-DOMAIN-KEYWORD,dlercloud
-DOMAIN-SUFFIX,dlercloud.com
+# >Others
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikileaks
 DOMAIN-SUFFIX,0rz.tw
@@ -1031,7 +1022,6 @@ DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,facebook.com,force-remote-dns
 DOMAIN-SUFFIX,facebook.net,force-remote-dns
-DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fastpic.ru
 DOMAIN-SUFFIX,fbcdn.net,force-remote-dns
