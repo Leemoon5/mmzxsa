@@ -1,3 +1,5 @@
+# > Customer
+IP-CIDR,198.18.1.68/32,no-resolve
 # > YouTube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
