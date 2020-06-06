@@ -370,9 +370,7 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,lofter.com
-DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 # > Sina
@@ -473,6 +471,7 @@ DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,booking.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chua.pro
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chushou.tv
