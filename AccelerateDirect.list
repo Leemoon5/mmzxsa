@@ -204,7 +204,6 @@ DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,uxengine.net
 DOMAIN-SUFFIX,videocc.net
-DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,weico.cc
@@ -245,7 +244,10 @@ DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
 # > AccelerateDNS
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,47.100.24.43/32,no-resolve
+DOMAIN,dns.alidns.com
 
 # Public Direct CDN 公共直连
 DOMAIN-SUFFIX,baomitu.com
