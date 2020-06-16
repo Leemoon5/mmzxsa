@@ -13,7 +13,7 @@ dns:
   enable: true
   ipv6: false
   listen: 0.0.0.0:53
-  enhanced-mode: fake-ip # redir-host #fake-ip
+  enhanced-mode: redir-host # redir-host #fake-ip
   fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
   fake-ip-filter: # fake ip white domain list
     - '*.lan'
@@ -22,7 +22,9 @@ dns:
     - 'www.msftncsi.com'
     - localhost.ptlogin2.qq.com
   nameserver:
-    - 47.100.24.43
+    # - 47.100.24.43
+    - 223.5.5.5
+    - 119.29.29.29
     - https://dns.alidns.com/dns-query
   fallback:
      - 1.1.1.1 # Cloudflare DNS
