@@ -626,9 +626,6 @@ DOMAIN-SUFFIX,ubuntu.net
 DOMAIN-SUFFIX,unpkg.com
 ## > Unsplash
 DOMAIN-SUFFIX,unsplash.com
-## > V2EX
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,v2ex.co
 # > Verisign
 DOMAIN-SUFFIX,verisign.asia
 DOMAIN-SUFFIX,verisign.biz
