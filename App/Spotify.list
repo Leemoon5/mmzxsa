@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 IP-CIDR,35.186.224.47/32,no-resolve
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
