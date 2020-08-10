@@ -12,7 +12,7 @@ experimental:
 dns:
   enable: true
   ipv6: false
-  listen: 0.0.0.0:53
+  listen: 0.0.0.0:5354
   enhanced-mode: redir-host # redir-host #fake-ip
   fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
   fake-ip-filter: # fake ip white domain list
