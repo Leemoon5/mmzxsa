@@ -1,4 +1,9 @@
-# > googleapis
+# > Google Drive
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+# > Googleapis
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,clientservices.googleapis.com
@@ -12,3 +17,6 @@ DOMAIN-SUFFIX,khm3.googleapis.com
 DOMAIN-SUFFIX,khmdb.googleapis.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,update.googleapis.com
+# > Google
+DOMAIN,dl.google.com
+DOMAIN-SUFFIX,googletraveladservices.com

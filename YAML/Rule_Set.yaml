@@ -1,39 +1,48 @@
-Rule:
-  - RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list,Reject
-  - RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list,Reject
-  - RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list,Reject
-  - RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list,Reject
-  - RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list,Reject
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/Conuntry/JP.list,JP
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/Conuntry/USS.list,US
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/Conuntry/HKK.list,HK
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/YouTube.list,Youtube
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/Porn.list,HK
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/Netflix.list,Netflix
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/Prime%20Video.list,Netflix
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Yandex.list,Yandex
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Twitter.list,Twitter
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Telegram.list,Telegrm
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Speedtest.list,Speedtest
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/PayPal.list,Paypal
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Mircosoft.list,Mircosoft
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Amazon.list,Gapis
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Dropbox.list,Gapis
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Googleapis.list,Gapis
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Google.list,Google
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Game.list,HK
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Developer.list,Developer
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/App/Apple.list,Apple
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/AccelerateDirect.list,AccelerateDirect
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/DNS.list,DNS
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/CDN-Global.list,Proxy
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/proxy.list,Proxy
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/CDN-CN.list,DIRECT
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/MediaCN.list,DIRECT
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/media/NetEaseMusic.list,DIRECT
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/Scholar.list,DIRECT
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/DMCA-Sensitive.list,DIRECT
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/Direct.list,DIRECT
-  - RULE-SET,https://raw.githubusercontent.com/Leemoon5/mmzxsa/master/Local-LAN.list,DIRECT
-  - GEOIP,CN,DIRECT
-  - MATCH,Final
+# name: # Provider 名称
+#   type: http # http 或 file
+#   behavior: classical # 或 ipcidr、domain
+#   path: # 文件路径
+#   url: # 只有当类型为 HTTP 时才可用，您不需要在本地空间中创建新文件。
+#   interval: # 自动更新间隔，仅在类型为 HTTP 时可用
+
+rule-providers:
+  ChinaIP:
+    type: http
+    behavior: ipcidr
+    path: ./RuleSet/Extra/ChinaIP.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaIp.yaml
+    interval: 86400
+  
+  Hijacking:
+    type: http
+    behavior: classical
+    path: ./RuleSet/Extra/Hijacking.yaml
+    url: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml
+    interval: 86400
+  
+  BanEasyList:
+    type: http
+    behavior: classical
+    path: ./RuleSet/Extra/BanEasyList.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/BanEasyList.yaml
+    interval: 86400
+
+  BanEasyListChina:
+    type: http
+    behavior: classical
+    path: ./RuleSet/Extra/BanEasyListChina.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/BanEasyListChina.yaml
+    interval: 86400
+
+  BanAD:
+    type: http
+    behavior: classical
+    path: ./RuleSet/Extra/BanAD.yaml
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/BanAD.yaml
+    interval: 86400
+
+rules:
+ - RULE-SET,Hijacking,REJECT
+ - RULE-SET,BanEasyList,REJECT
+ - RULE-SET,BanEasyListChina,REJECT
+ - RULE-SET,BanAD,REJECT

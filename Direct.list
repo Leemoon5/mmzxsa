@@ -1,4 +1,28 @@
 # > Customer list
+DOMAIN-SUFFIX,abercrombie.com
+DOMAIN-SUFFIX,acfun.tv
+DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnbetacdn.com
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,sanqiu.cc
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,tianqi.com
+DOMAIN-SUFFIX,tianqistatic.com
+DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,zhongsou.com
+DOMAIN-SUFFIX,zhuihd.com
+
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.com
 
@@ -514,12 +538,6 @@ DOMAIN-SUFFIX,chinanetcenter.com
 DOMAIN-SUFFIX,meixincdn.com
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,wangsu.com
-# > IP Query
-DOMAIN-SUFFIX,ip.la
-DOMAIN-SUFFIX,ip-cdn.com
-DOMAIN-SUFFIX,ipv6-test.com
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,whatismyip.com
 # > Other
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
@@ -579,10 +597,3 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN,download.jetbrains.com
-DOMAIN,images-cn.ssl-images-amazon.com
-# > Google
-DOMAIN,dl.google.com
-DOMAIN,mtalk.google.com
-DOMAIN,vd.l.qq.com
-DOMAIN-KEYWORD,safebrowsing.googleapis.com
-DOMAIN-SUFFIX,googletraveladservices.com
