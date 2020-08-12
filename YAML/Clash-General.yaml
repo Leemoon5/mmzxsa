@@ -9,6 +9,8 @@ secret: ''
 experimental:
   ignore-resolve-fail: true # ignore dns resolve fail, default value is true
   # interface-name: Wi-Fi # outbound interface name
+hosts:
+  'mtalk.google.com': 108.177.125.188
 dns:
   enable: true
   ipv6: false
