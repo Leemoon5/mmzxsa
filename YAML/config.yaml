@@ -25,7 +25,7 @@ dns:
     - https://dns.alidns.com/dns-query
     - tls://1.0.0.1:853
   fallback:
-    - 8.8.8.8 # 谷歌DNS
+    - 8.8.8.8
     - dns9.quad9.net:443/dns-query
     - https://cloudflare-dns.com/dns-query
     - tls://dns.google:853
