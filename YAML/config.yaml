@@ -1,0 +1,31 @@
+mixed-port: 7890
+allow-lan: true
+bind-address: '*'
+mode: rule
+# info / warning / error / debug / silent
+log-level: info
+ipv6: false
+external-controller: 127.0.0.1:9090
+hosts:
+  'mtalk.google.com': 108.177.125.188
+dns:
+  enable: true
+  listen: 0.0.0.0:5354
+  enhanced-mode: redir-host # redir-host #fake-ip
+  default-nameserver:
+    - 1.0.0.1
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - 1.1.1.1 # Cloudflare DNS
+    - 119.29.29.29
+    - 223.5.5.5
+    - https://cloudflare-dns.com/dns-query
+    - https://dns10.quad9.net/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://dns.alidns.com/dns-query
+    - tls://1.0.0.1:853
+  fallback:
+    - 8.8.8.8 # 谷歌DNS
+    - tls://dns.google:853   
+    - https://dns.google/dns-query

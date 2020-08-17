@@ -6,9 +6,9 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:8080
 secret: ''
-experimental:
-  ignore-resolve-fail: true # ignore dns resolve fail, default value is true
-  # interface-name: Wi-Fi # outbound interface name
+# experimental:
+#   ignore-resolve-fail: true # ignore dns resolve fail, default value is true
+#   # interface-name: Wi-Fi # outbound interface name
 hosts:
   'mtalk.google.com': 108.177.125.188
 dns:
