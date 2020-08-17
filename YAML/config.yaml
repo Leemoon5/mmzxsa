@@ -8,6 +8,12 @@ log-level: info
 external-controller: 127.0.0.1:5678
 hosts:
   'mtalk.google.com': 108.177.125.188
+tun:
+  enable: true
+  stack: system
+  dns-hijack:
+  - tcp://8.8.8.8:53
+  - tcp://8.8.4.4:53
 dns:
   enable: true
   ipv6: false
