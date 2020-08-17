@@ -14,7 +14,7 @@ hosts:
 dns:
   enable: true
   ipv6: false
-  listen: 0.0.0.0:53
+  listen: 0.0.0.0:5354
   default-nameserver:
     - 1.0.0.1
     - 9.9.9.10
