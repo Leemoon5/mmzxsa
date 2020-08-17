@@ -15,36 +15,36 @@ dns:
   enable: true
   ipv6: false
   listen: 0.0.0.0:5354
+  enhanced-mode: redir-host # redir-host #fake-ip
   default-nameserver:
     - 1.0.0.1
     - 9.9.9.10
     - 223.5.5.5
     - 119.29.29.29
     - 149.112.112.10
-  enhanced-mode: redir-host # redir-host #fake-ip
-  fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
-  fake-ip-filter: # fake ip white domain list
-    - '*.lan'
-    - 'dns.msftncsi.com'
-    - 'www.msftconnecttest.com'
-    - 'www.msftncsi.com'
-    - localhost.ptlogin2.qq.com
+  
+  # fake-ip-range: 198.18.0.1/16 # if you don't know what it is, don't change it
+  # fake-ip-filter: # fake ip white domain list
+  #   - '*.lan'
+  #   - 'dns.msftncsi.com'
+  #   - 'www.msftconnecttest.com'
+  #   - 'www.msftncsi.com'
+  #   - localhost.ptlogin2.qq.com
   nameserver:
-    # - 47.100.24.43
-    - 223.5.5.5
+    - 1.1.1.1 # Cloudflare DNS
+    - 8.8.8.8 # 谷歌DNS
     - 119.29.29.29
-    - https://doh.pub/dns-query
+    - 223.5.5.5
+    - https://cloudflare-dns.com/dns-query
+    - https://dns10.quad9.net/dns-query
+    - https://dns.adguard.com/dns-query
     - https://dns.alidns.com/dns-query
-  fallback:
-     - 1.1.1.1 # Cloudflare DNS
-     - 8.8.8.8 # 谷歌DNS
-     - https://dns10.quad9.net/dns-query
-     - https://cloudflare-dns.com/dns-query
-     - https://dns.adguard.com/dns-query
-     - https://dns.google/dns-query
-     - tls://1.0.0.1:853
-     - tls://dns.google:853
-  fallback-filter:
-    geoip: true # default
-    ipcidr: # ips in these subnets will be considered polluted
-      - 240.0.0.0/4
+    - https://dns.google/dns-query
+    - https://doh.pub/dns-query
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+  # # fallback:
+  # fallback-filter:
+  #   geoip: true # default
+  #   ipcidr: # ips in these subnets will be considered polluted
+  #     - 240.0.0.0/4
