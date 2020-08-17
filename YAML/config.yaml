@@ -5,7 +5,7 @@ mode: rule
 # info / warning / error / debug / silent
 log-level: info
 ipv6: false
-external-controller: 127.0.0.1:9090
+external-controller: 127.0.0.1:5678
 hosts:
   'mtalk.google.com': 108.177.125.188
 dns:
