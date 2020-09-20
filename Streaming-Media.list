@@ -1,8 +1,46 @@
+# > Imkan
+DOMAIN-SUFFIX,imkan.tv
+# > Sky GO
+USER-AGENT,skygo*
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skygo.co.nz
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,go.com
+USER-AGENT,Disney+*
+DOMAIN-SUFFIX,bamgrid.com
+# > CBS
+DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+# > myTV_SUPER
+DOMAIN-SUFFIX,tidal.comdia
+# > Viu(TV)
+# > Japonx
+DOMAIN-KEYWORD,japonx
+DOMAIN-KEYWORD,japronx
+DOMAIN-SUFFIX,japonx.com
+DOMAIN-SUFFIX,japonx.tv
+DOMAIN-SUFFIX,japonx.net
+DOMAIN-SUFFIX,japonx.vip
+DOMAIN-SUFFIX,japronx.com
+DOMAIN-SUFFIX,japronx.tv
+DOMAIN-SUFFIX,japronx.net
+DOMAIN-SUFFIX,japronx.vip
+DOMAIN-KEYWORD,nowe
+DOMAIN-SUFFIX,youboranqs01.com
+# > LineTV
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
 # (Podcast)
 # > Himalaya
 # USER-AGENT,Himalaya*
 DOMAIN-SUFFIX,himalaya.com
-
 # (Music)
 # > Deezer
 # USER-AGENT,Deezer*
@@ -31,7 +69,6 @@ DOMAIN-SUFFIX,tidal.com
 # > YouTubeMusic
 # USER-AGENT,com.google.ios.youtubemusic*
 # USER-AGENT,YouTubeMusic*
-
 # (Video)
 # > AbemaTV
 # USER-AGENT,AbemaTV*
@@ -54,7 +91,6 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN-KEYWORD,avoddashs
@@ -76,7 +112,10 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 # > DAZN
-# USER-AGENT,DAZN*
+DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
+DOMAIN-SUFFIX,dazndn.com
+DOMAIN-SUFFIX,indazn.com
+DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN,d151l6v8er5bdm.cloudfront.net
