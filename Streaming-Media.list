@@ -1,3 +1,7 @@
+# > emby
+DOMAIN,emby
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,emby.yoyu.ltd
 # > Imkan
 DOMAIN-SUFFIX,imkan.tv
 # > Sky GO
@@ -17,7 +21,6 @@ DOMAIN-SUFFIX,content.jwplatform.com
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
 # > myTV_SUPER
 DOMAIN-SUFFIX,tidal.comdia
-# > Viu(TV)
 # > Japonx
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
@@ -337,9 +340,3 @@ DOMAIN,api.viu.now.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
-# > YouTube
-# USER-AGENT,com.google.ios.youtube*
-# USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN,youtubei.googleapis.com

@@ -1,5 +1,8 @@
 # > Customer
 DOMAIN-SUFFIX,vmware.com
+# > Others
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,duboxcdn.com
 # > AirPlan
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-SUFFIX,dlercloud.com
