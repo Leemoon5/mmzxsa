@@ -3,9 +3,15 @@ payload:
   - PROCESS-NAME,com.google.android.gms
   - PROCESS-NAME,com.android.vending
 
+
   - PROCESS-NAME,com.google.android.gm
   - PROCESS-NAME,com.google.android.googlequicksearchbox
   - PROCESS-NAME,com.google.android.apps.photos
   - PROCESS-NAME,com.google.android.apps.googlevoice
 
+  - PROCESS-NAME,com.google.android.play.games
+  - PROCESS-NAME,com.google.android.keep
   - PROCESS-NAME,com.google.android.apps.nbu.files
+
+  - PROCESS-NAME,com.google.android.ims
+  - PROCESS-NAME,com.google.android.gsf
