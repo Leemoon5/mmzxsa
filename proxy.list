@@ -190,79 +190,15 @@ DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,ebayrtm.com
 DOMAIN-SUFFIX,ebayimg.com
-# > Elsevier
 # > Entermediadb
 DOMAIN-SUFFIX,entermediadb.net
 DOMAIN-SUFFIX,entermediadb.org
 # > Entrust
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
-## > Facebook
-DOMAIN-KEYWORD,facebook
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,facebook.br
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,facebook.design
-DOMAIN-SUFFIX,facebook.hu
-DOMAIN-SUFFIX,facebook.in
-DOMAIN-SUFFIX,facebook.nl
-DOMAIN-SUFFIX,facebook.se
-DOMAIN-SUFFIX,thefacebook.com
-DOMAIN-SUFFIX,facebookmail.com
-DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,facebookquotes4u.com
-DOMAIN-SUFFIX,ip6.static.sl-reverse.com
-DOMAIN-SUFFIX,fbcdn-a.akamaihd.net
 # > Oculus
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
-# > Whatsapp
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-IP-CIDR,108.168.176.192/26,no-resolve
-IP-CIDR,108.168.177.0/27,no-resolve
-IP-CIDR,108.168.180.96/27,no-resolve
-IP-CIDR,108.168.254.65/32,no-resolve
-IP-CIDR,108.168.255.224/32,no-resolve
-IP-CIDR,108.168.255.227/32,no-resolve
-IP-CIDR,108.177.8.0/21,no-resolve
-IP-CIDR,119.235.224.0/24,no-resolve
-IP-CIDR,119.235.232.0/24,no-resolve
-IP-CIDR,119.235.236.0/24,no-resolve
-IP-CIDR,119.235.237.0/24,no-resolve
-IP-CIDR,103.4.96.0/22,no-resolve
-IP-CIDR,129.134.0.0/17,no-resolve
-IP-CIDR,157.240.0.0/17,no-resolve
-IP-CIDR,173.252.64.0/19,no-resolve
-IP-CIDR,173.252.96.0/19,no-resolve
-IP-CIDR,179.60.192.0/22,no-resolve
-IP-CIDR,185.60.216.0/22,no-resolve
-IP-CIDR,204.15.20.0/22,no-resolve
-IP-CIDR,31.13.24.0/21,no-resolve
-IP-CIDR,31.13.64.0/18,no-resolve
-IP-CIDR,45.64.40.0/22,no-resolve
-IP-CIDR,66.220.144.0/20,no-resolve
-IP-CIDR,69.171.224.0/19,no-resolve
-IP-CIDR,69.63.176.0/20,no-resolve
-IP-CIDR,74.119.76.0/22,no-resolve
-IP-CIDR,3.123.36.126/32,no-resolve
-IP-CIDR,52.58.209.134/32,no-resolve
-IP-CIDR,54.93.124.31/32,no-resolve
-IP-CIDR,54.173.34.141/32,no-resolve
-IP-CIDR,54.235.23.242/32,no-resolve
-IP-CIDR,169.45.248.118/32,no-resolve
-IP-CIDR,35.157.215.84/32,no-resolve
-IP-CIDR,35.157.217.255/32,no-resolve
-IP-CIDR,54.162.243.80/32,no-resolve
 # > Fastly
 DOMAIN-SUFFIX,fastly.com
 DOMAIN-SUFFIX,fastly.net
@@ -349,37 +285,6 @@ DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,kingkongapp.com
 # > Knovel
 DOMAIN-SUFFIX,DOMAIN-SUFFIX,knovel.com
-## > Last.fm
-DOMAIN-SUFFIX,ws.audioscrobbler.com
-DOMAIN-SUFFIX,last.fm
-DOMAIN-SUFFIX,lastfm.es
-DOMAIN-SUFFIX,lastfm.freetls.fastly.net
-DOMAIN-SUFFIX,lastfm.de
-DOMAIN-SUFFIX,lastfm.ru
-DOMAIN-SUFFIX,lastfm.pl
-DOMAIN-SUFFIX,pqqx2.tk
-DOMAIN-SUFFIX,bbfc1.tk
-DOMAIN-SUFFIX,oilofhaemony.com
-DOMAIN-SUFFIX,ouchmonkey.com
-DOMAIN-SUFFIX,cqyos.tk
-DOMAIN-SUFFIX,itnnl.tk
-DOMAIN-SUFFIX,bc9oa.tk
-DOMAIN-SUFFIX,tnjqk.tk
-DOMAIN-SUFFIX,rmohl.tk
-DOMAIN-SUFFIX,mwrel.tk
-DOMAIN-SUFFIX,kn5ak.tk
-DOMAIN-SUFFIX,halkz.tk
-DOMAIN-SUFFIX,kwcnn.tk
-DOMAIN-SUFFIX,jdw1v.tk
-DOMAIN-SUFFIX,lastfm.eu
-DOMAIN-SUFFIX,rfnva.tk
-DOMAIN-SUFFIX,lastfm.ph
-DOMAIN-SUFFIX,fuckyeahtfx.com
-DOMAIN-SUFFIX,wznka.tk
-DOMAIN-SUFFIX,lastfm.cn
-DOMAIN-SUFFIX,bvuno.tk
-DOMAIN-SUFFIX,lastfmpresents.com
-DOMAIN,lastfm-img2.akamaized.net
 ## > LastPass
 DOMAIN-SUFFIX,lastpass.com
 # > Letsencrypt
@@ -416,7 +321,6 @@ DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,sentry.prod.mozaws.net
-# > Nature
 ## > NaughtyAmerica
 DOMAIN-SUFFIX,naughtyamerica.com
 ## > NetworkLayer Technologies
@@ -714,12 +618,6 @@ DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,now.sh
 # >Others
-DOMAIN-KEYWORD,appledaily
-DOMAIN-KEYWORD,beetalk
-DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,sci-hub
-DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,wikileaks
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
@@ -1465,7 +1363,6 @@ DOMAIN-SUFFIX,wow.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wwitv.com
-DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xeeno.com

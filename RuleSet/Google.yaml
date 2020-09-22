@@ -18,7 +18,6 @@ payload:
   - PROCESS-NAME,com.google.android.apps.maps
   - PROCESS-NAME,com.google.android.apps.translate
   - PROCESS-NAME,com.google.android.talk
-  # > Google
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,1e100.net
@@ -27,8 +26,6 @@ payload:
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,goo.gl
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gvt0.com
@@ -43,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - IP-CIDR,74.125.0.0/16,no-resolve
   - IP-CIDR,173.194.0.0/16,no-resolve
+
   # > GoogleFCM 谷歌推送服务
   - DOMAIN,alt1-mtalk.google.com
   - DOMAIN,alt2-mtalk.google.com
@@ -79,3 +77,49 @@ payload:
   - IP-CIDR,173.194.175.188/32,no-resolve
   - IP-CIDR,173.194.218.188/32,no-resolve
   - IP-CIDR,209.85.233.188/32,no-resolve
+  # > GoogleCN
+  - DOMAIN-SUFFIX,265.com
+  - DOMAIN-SUFFIX,alt1-mtalk.google.com
+  - DOMAIN-SUFFIX,alt2-mtalk.google.com
+  - DOMAIN-SUFFIX,alt3-mtalk.google.com
+  - DOMAIN-SUFFIX,alt4-mtalk.google.com
+  - DOMAIN-SUFFIX,alt5-mtalk.google.com
+  - DOMAIN-SUFFIX,alt6-mtalk.google.com
+  - DOMAIN-SUFFIX,alt7-mtalk.google.com
+  - DOMAIN-SUFFIX,alt8-mtalk.google.com
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,c.android.clients.google.com
+  - DOMAIN-SUFFIX,cache.pack.google.com
+  - DOMAIN-SUFFIX,clickserve.dartsearch.net
+  - DOMAIN-SUFFIX,crl.pki.goog
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,dl.l.google.com
+  - DOMAIN-SUFFIX,fonts.gstatic.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,gtm.oasisfeng.com
+  - DOMAIN-SUFFIX,kh.google.com
+  - DOMAIN-SUFFIX,khm.google.com
+  - DOMAIN-SUFFIX,khm0.google.com
+  - DOMAIN-SUFFIX,khm1.google.com
+  - DOMAIN-SUFFIX,khm2.google.com
+  - DOMAIN-SUFFIX,khm3.google.com
+  - DOMAIN-SUFFIX,khmdb.google.com
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,ocsp.pki.goog
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,redirector.gvt1.com
+  - DOMAIN-SUFFIX,safebrowsing-cache.google.com
+  - DOMAIN-SUFFIX,settings.crashlytics.com
+  - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+  - DOMAIN-SUFFIX,ssl.gstatic.com
+  - DOMAIN-SUFFIX,toolbarqueries.google.com
+  - DOMAIN-SUFFIX,tools.google.com
+  - DOMAIN-SUFFIX,tools.l.google.com
+  - DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+  - DOMAIN-SUFFIX,www.gstatic.com
+  # > Other
+  - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,blogger.com
+  - DOMAIN-SUFFIX,getoutline.org
+  - DOMAIN-KEYWORD,blogspot
