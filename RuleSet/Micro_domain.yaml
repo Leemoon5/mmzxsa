@@ -1,8 +1,8 @@
 payload:
-  - '+.microsoft.com'
+  - '.microsoft.com'
   - '*.*.microsoft.com'
-  - '+.onedrive.com'
-  - '+.live.net'
+  - '.onedrive.com'
+  - '.live.net'
   - '+.live.com'
   - '+.office.com'
   - '+.office365.com'
