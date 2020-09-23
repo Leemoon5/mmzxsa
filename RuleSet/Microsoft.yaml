@@ -2,17 +2,6 @@ payload:
   # > Microsoft
   # OneDrive
   - PROCESS-NAME,com.microsoft.skydrive
-  - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,livefilestore.com
-  - DOMAIN-SUFFIX,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,onedrive.live.com
-  - DOMAIN-SUFFIX,photos.live.com
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-  - DOMAIN-SUFFIX,storage.msn.com
   # OutLook
   - PROCESS-NAME,com.microsoft.office.outlook
   - DOMAIN-SUFFIX,outlook.com
@@ -33,6 +22,17 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,officeppe.net
   # Others
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,photos.live.com
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+  - DOMAIN-SUFFIX,storage.msn.com
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,acompli.com
@@ -100,3 +100,119 @@ payload:
   - DOMAIN-SUFFIX,yammerusercontent.com
   - DOMAIN,az416426.vo.msecnd.net
   - DOMAIN,az668014.vo.msecnd.net
+  - DOMAIN,officecdn-microsoft-com.akamaized.net
+  - DOMAIN-KEYWORD,1drv
+  - DOMAIN-KEYWORD,onedrive
+  - DOMAIN-SUFFIX,1drv.ms
+  - DOMAIN-SUFFIX,Applicationinsights.io
+  - DOMAIN-SUFFIX,Applicationinsights.net
+  - DOMAIN-SUFFIX,a-msedge.net
+  - DOMAIN-SUFFIX,a1158.g.akamai.net
+  - DOMAIN-SUFFIX,a122.dscg3.akamai.net
+  - DOMAIN-SUFFIX,a767.dscg3.akamai.net
+  - DOMAIN-SUFFIX,ajax.aspnetcdn.com
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,applicationinsights.io
+  - DOMAIN-SUFFIX,applicationinsights.net
+  - DOMAIN-SUFFIX,asp.net
+  - DOMAIN-SUFFIX,azure-test.net
+  - DOMAIN-SUFFIX,azurecomcdn.net
+  - DOMAIN-SUFFIX,azureedge-test.net
+  - DOMAIN-SUFFIX,azurewebsites.net
+  - DOMAIN-SUFFIX,b.akamaiedge.net
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,blob.core.windows.net
+  - DOMAIN-SUFFIX,botframework.com
+  - DOMAIN-SUFFIX,breakdown.me
+  - DOMAIN-SUFFIX,c-msedge.net
+  - DOMAIN-SUFFIX,centralvalidation.com
+  - DOMAIN-SUFFIX,clo.footprintdns.com
+  - DOMAIN-SUFFIX,cortanaanalytics.com
+  - DOMAIN-SUFFIX,crmdynint-gcc.com
+  - DOMAIN-SUFFIX,crmdynint.com
+  - DOMAIN-SUFFIX,cs11.wpc.v0cdn.net
+  - DOMAIN-SUFFIX,cs9.wac.phicdn.net
+  - DOMAIN-SUFFIX,docs.com
+  - DOMAIN-SUFFIX,dynamics.com
+  - DOMAIN-SUFFIX,e-msedge.net
+  - DOMAIN-SUFFIX,efproject.net
+  - DOMAIN-SUFFIX,eus-www.sway-cdn.com
+  - DOMAIN-SUFFIX,eus-www.sway-extensions.com
+  - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
+  - DOMAIN-SUFFIX,g.akamaiedge.net
+  - DOMAIN-SUFFIX,getmicrosoftkey.com
+  - DOMAIN-SUFFIX,helpshift.com
+  - DOMAIN-SUFFIX,hockeyapp.net
+  - DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com
+  - DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
+  - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+  - DOMAIN-SUFFIX,live.com.akadns.net
+  - DOMAIN-SUFFIX,localytics.com
+  - DOMAIN-SUFFIX,microsoft-ppe.com
+  - DOMAIN-SUFFIX,microsoft-sbs-domains.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoft.com.akadns.net
+  - DOMAIN-SUFFIX,microsoft.com.nsatc.net
+  - DOMAIN-SUFFIX,microsoft.net
+  - DOMAIN-SUFFIX,microsoft365.com
+  - DOMAIN-SUFFIX,microsoftapps.azurewebsites.net
+  - DOMAIN-SUFFIX,microsoftazuread-sso.com
+  - DOMAIN-SUFFIX,microsoftemail.com
+  - DOMAIN-SUFFIX,microsoftestore.com.hk
+  - DOMAIN-SUFFIX,microsoftonline-p.com
+  - DOMAIN-SUFFIX,microsoftonline-p.net
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,microsoftstore.com.cn
+  - DOMAIN-SUFFIX,microsoftstream.com
+  - DOMAIN-SUFFIX,microsofttranslator.com
+  - DOMAIN-SUFFIX,microsoftuwp.com
+  - DOMAIN-SUFFIX,mono-project.com
+  - DOMAIN-SUFFIX,ms-studiosmedia.com
+  - DOMAIN-SUFFIX,msa.akadns6.net
+  - DOMAIN-SUFFIX,msads.net
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msn.com.nsatc.net
+  - DOMAIN-SUFFIX,nuget.org
+  - DOMAIN-SUFFIX,nugettest.org
+  - DOMAIN-SUFFIX,o365weve-dev.com
+  - DOMAIN-SUFFIX,o365weve-ppe.com
+  - DOMAIN-SUFFIX,oaspapps.com.akadns.net
+  - DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
+  - DOMAIN-SUFFIX,onecollector.cloudapp.aria
+  - DOMAIN-SUFFIX,onecollector.cloudapp.aria.akadns.net
+  - DOMAIN-SUFFIX,onenote.com 
+  - DOMAIN-SUFFIX,onmicrosoft.com
+  - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,outlookgroups.ms
+  - DOMAIN-SUFFIX,passport.net
+  - DOMAIN-SUFFIX,powerappscdn.net
+  - DOMAIN-SUFFIX,powerbi.com
+  - DOMAIN-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net
+  - DOMAIN-SUFFIX,s-microsoft.com
+  - DOMAIN-SUFFIX,s-msedge.net
+  - DOMAIN-SUFFIX,sfbassets.net
+  - DOMAIN-SUFFIX,skype.net
+  - DOMAIN-SUFFIX,skypeassets.net
+  - DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
+  - DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
+  - DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
+  - DOMAIN-SUFFIX,surface.com
+  - DOMAIN-SUFFIX,sysinternals.com
+  - DOMAIN-SUFFIX,tenor.com
+  - DOMAIN-SUFFIX,tfsallin.net
+  - DOMAIN-SUFFIX,translator.com
+  - DOMAIN-SUFFIX,videobreakdown.com
+  - DOMAIN-SUFFIX,videoindexer.ai
+  - DOMAIN-SUFFIX,vip5.afdorigin-prod-am02.afdogw.com
+  - DOMAIN-SUFFIX,visualstudio-staging.com
+  - DOMAIN-SUFFIX,vsallin.net
+  - DOMAIN-SUFFIX,vsassets.io
+  - DOMAIN-SUFFIX,windows-int.net
+  - DOMAIN-SUFFIX,windows.com.akadns.net
+  - DOMAIN-SUFFIX,windowsphone-int.com
+  - DOMAIN-SUFFIX,windowsphone.com
+  - DOMAIN-SUFFIX,wus-www.sway-cdn.com
+  - DOMAIN-SUFFIX,wus-www.sway-extensions.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xboxlive.com
