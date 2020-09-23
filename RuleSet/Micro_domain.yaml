@@ -4,5 +4,7 @@ payload:
   - '+.onedrive.com'
   - '+.live.net'
   - '+.live.com'
+  - '+.office.com'
   - '+.office365.com'
   - '+.msedge.net'
+  - '+.skype.com'
