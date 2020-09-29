@@ -1,0 +1,26 @@
+payload:
+  # Microsoft Launcher
+  - PROCESS-NAME,com.microsoft.launcher
+  # Your Phone Companion - Link to Windows
+  - PROCESS-NAME,com.microsoft.appmanager
+  # Microsoft Math Solver
+  - PROCESS-NAME,com.microsoft.math
+  # Microsoft Office Lens - PDF Scanner
+  - PROCESS-NAME,com.microsoft.office.officelens
+  # Microsoft Bing Search
+  - PROCESS-NAME,com.microsoft.bing
+  # OneDrive
+  - PROCESS-NAME,com.microsoft.skydrive
+  # OutLook
+  - PROCESS-NAME,com.microsoft.office.outlook
+  # OneNote
+  - PROCESS-NAME,com.microsoft.office.onenote
+  # ToDo
+  - PROCESS-NAME,com.microsoft.todos
+  # Office
+  - PROCESS-NAME,com.microsoft.office.officehubrow
+  - PROCESS-NAME,com.microsoft.office.powerpoint
+  - PROCESS-NAME,com.microsoft.office.excel
+  - PROCESS-NAME,com.microsoft.office.word
+  # Microsoft Translator
+  - PROCESS-NAME,com.microsoft.translator

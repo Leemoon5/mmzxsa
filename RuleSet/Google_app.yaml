@@ -1,0 +1,75 @@
+payload:
+  # Google LLC
+  - PROCESS-NAME,com.google.android.gms
+  # > Playstore
+  - PROCESS-NAME,com.android.vending
+  # > Gmail 
+  - PROCESS-NAME,com.google.android.gm
+  # Google Play Games
+  - PROCESS-NAME,com.google.android.play.games
+  # Google Meet - Secure Video Meetings
+  - PROCESS-NAME,com.google.android.apps.meetings
+  # Google Classroom
+  - PROCESS-NAME,com.google.android.apps.classroom
+  # Google Docs
+  - PROCESS-NAME,com.google.android.apps.docs.editors.docs
+  # Google Pay: Pay with your phone and send cash
+  - PROCESS-NAME,com.google.android.apps.walletnfcrel
+  # Google Earth
+  - PROCESS-NAME,com.google.earth
+  # Google Assistant - Get things done, hands-free
+  - PROCESS-NAME,com.google.android.apps.googleassistant
+  # Google Lens
+  - PROCESS-NAME,com.google.ar.lens
+  # Google Sheets
+  - PROCESS-NAME,com.google.android.apps.docs.editors.sheets
+  # Contacts
+  - PROCESS-NAME,com.google.android.contacts
+  # Google Authenticato
+  - PROCESS-NAME,com.google.android.apps.authenticator2
+  # Hangouts
+  - PROCESS-NAME,com.google.android.talk
+  # Google Slides
+  - PROCESS-NAME,com.google.android.apps.docs.editors.slides
+  # Google One
+  - PROCESS-NAME,com.google.android.apps.subscriptions.red
+  # Google Duo - High Quality Video Calls
+  - PROCESS-NAME,com.google.android.apps.tachyon
+  # Google Calendar
+  - PROCESS-NAME,com.google.android.calendar
+  # Google Podcasts: Discover free & trending podcasts
+  - PROCESS-NAME,com.google.android.apps.podcasts
+  # Google Photos
+  - PROCESS-NAME,com.google.android.apps.photos
+  # Google Family Link for parents
+  - PROCESS-NAME,com.google.android.apps.kids.familylink
+  # Google Maps Go - Directions, Traffic & Transit
+  - PROCESS-NAME,com.google.android.apps.mapslite
+  # Socratic by Google
+  - PROCESS-NAME,com.google.socratic
+  # Google Fit: Health and Activity Tracking
+  - PROCESS-NAME,com.google.android.apps.fitness
+  # Snapseed
+  - PROCESS-NAME,com.niksoftware.snapseed
+  # Google Play Books - Ebooks, Audiobooks, and Comics
+  - PROCESS-NAME,com.google.android.apps.books
+  # Google Go: A lighter, faster way to search
+  - PROCESS-NAME,com.google.android.apps.searchlite
+  # Navigation for Google Maps Go
+  - PROCESS-NAME,com.google.android.apps.navlite
+  # PhotoScan by Google Photos
+  - PROCESS-NAME,com.google.android.apps.photos.scanner
+  # Google PDF Viewer
+  - PROCESS-NAME,com.google.android.apps.pdfviewer
+  # Google News - Top world & local news headlines
+  - PROCESS-NAME,com.google.android.apps.magazines
+  
+  - PROCESS-NAME,com.google.android.googlequicksearchbox
+  - PROCESS-NAME,com.google.android.apps.googlevoice
+  - PROCESS-NAME,com.google.android.keep
+  - PROCESS-NAME,com.google.android.apps.nbu.files
+  - PROCESS-NAME,com.google.android.ims
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.gsf.login
+  - PROCESS-NAME,com.google.android.apps.maps
+  - PROCESS-NAME,com.google.android.apps.translate

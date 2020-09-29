@@ -18,6 +18,7 @@ payload:
   - PROCESS-NAME,com.google.android.apps.maps
   - PROCESS-NAME,com.google.android.apps.translate
   - PROCESS-NAME,com.google.android.talk
+
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,1e100.net
