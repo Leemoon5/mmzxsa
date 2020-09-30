@@ -1,24 +1,5 @@
 payload:
-  # > GoogleApp
-  - PROCESS-NAME,com.google.android.gms
-  # > Playstore
-  - PROCESS-NAME,com.android.vending
-  # > Gmail 
-  - PROCESS-NAME,com.google.android.gm
-  - PROCESS-NAME,com.google.android.googlequicksearchbox
-  - PROCESS-NAME,com.google.android.apps.photos
-  - PROCESS-NAME,com.google.android.apps.googlevoice
-  - PROCESS-NAME,com.google.android.play.games
-  - PROCESS-NAME,com.google.android.keep
-  - PROCESS-NAME,com.google.android.apps.nbu.files
-  - PROCESS-NAME,com.google.android.ims
-  - PROCESS-NAME,com.google.android.gsf
-  - PROCESS-NAME,com.google.android.gsf.login
-  - PROCESS-NAME,com.google.android.apps.googleassistant
-  - PROCESS-NAME,com.google.android.apps.maps
-  - PROCESS-NAME,com.google.android.apps.translate
-  - PROCESS-NAME,com.google.android.talk
-
+# > Google
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,1e100.net

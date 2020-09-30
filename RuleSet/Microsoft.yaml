@@ -1,39 +1,5 @@
 payload:
   # > Microsoft
-  # Microsoft Translator
-  - PROCESS-NAME,com.microsoft.translator
-  # Microsoft Launcher
-  - PROCESS-NAME,com.microsoft.launcher
-  # Your Phone Companion - Link to Windows
-  - PROCESS-NAME,com.microsoft.appmanager
-  # Microsoft Math Solver
-  - PROCESS-NAME,com.microsoft.math
-  # Microsoft Office Lens - PDF Scanner
-  - PROCESS-NAME,com.microsoft.office.officelens
-  # Microsoft Bing Search
-  - PROCESS-NAME,com.microsoft.bing
-  # OneDrive
-  - PROCESS-NAME,com.microsoft.skydrive
-  # OutLook
-  - PROCESS-NAME,com.microsoft.office.outlook
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,outlookmobile.com
-  # OneNote
-  - PROCESS-NAME,com.microsoft.office.onenote
-  - DOMAIN-SUFFIX,onenote.com
-  - DOMAIN-SUFFIX,onenote.net
-  # ToDo
-  - PROCESS-NAME,com.microsoft.todos
-  # Office
-  - PROCESS-NAME,com.microsoft.office.officehubrow
-  - PROCESS-NAME,com.microsoft.office.powerpoint
-  - PROCESS-NAME,com.microsoft.office.excel
-  - PROCESS-NAME,com.microsoft.office.word
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,officeppe.net
-  # Others
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,aadrm.com
@@ -72,9 +38,17 @@ payload:
   - DOMAIN-SUFFIX,mstea.ms
   - DOMAIN-SUFFIX,o365weve.com
   - DOMAIN-SUFFIX,oaspapps.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,officeppe.net
   - DOMAIN-SUFFIX,omniroot.com
   - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onestore.ms
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,outlookmobile.com
   - DOMAIN-SUFFIX,phonefactor.net
   - DOMAIN-SUFFIX,public-trust.com
   - DOMAIN-SUFFIX,sfbassets.com
