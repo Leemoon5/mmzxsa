@@ -1,5 +1,9 @@
 payload:
   # Google LLC
+  - PROCESS-NAME,com.google.android.ims
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.gsf.login
+  # Google Play services
   - PROCESS-NAME,com.google.android.gms
   # > Playstore
   - PROCESS-NAME,com.android.vending
@@ -63,13 +67,17 @@ payload:
   - PROCESS-NAME,com.google.android.apps.pdfviewer
   # Google News - Top world & local news headlines
   - PROCESS-NAME,com.google.android.apps.magazines
-  
+  # Gallery Go by Google Photos
+  - PROCESS-NAME,com.google.android.apps.photosgo
+  # Google App
   - PROCESS-NAME,com.google.android.googlequicksearchbox
+  # Google Voice
   - PROCESS-NAME,com.google.android.apps.googlevoice
+  # Google Keep
   - PROCESS-NAME,com.google.android.keep
+  # Files by Google: Clean up space on your phone
   - PROCESS-NAME,com.google.android.apps.nbu.files
-  - PROCESS-NAME,com.google.android.ims
-  - PROCESS-NAME,com.google.android.gsf
-  - PROCESS-NAME,com.google.android.gsf.login
+  # Google Maps 
   - PROCESS-NAME,com.google.android.apps.maps
+  # Google Translate
   - PROCESS-NAME,com.google.android.apps.translate
