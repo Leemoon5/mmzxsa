@@ -1,0 +1,53 @@
+payload:
+  # > Github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,rawgit.com
+  - DOMAIN-SUFFIX,rawgithub.com
+  # Gitbook
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,gitbook.zendesk.com
+  # > Gitlab
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.net
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,gitlab-static.net
+  - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+  # > Ubuntu
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,ubuntu.net
+  - DOMAIN-SUFFIX,askubuntu.com
+  # > stackoverflow
+  - DOMAIN-SUFFIX,stackoverflow.blog
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,stackoverflowbusiness.com
+  # Others
+  - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-SUFFIX,spring.net
+  - DOMAIN-SUFFIX,spring.io
+  - DOMAIN-SUFFIX,sourcegraph.com
+  - DOMAIN-SUFFIX,sonatype.org
+  - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,mvnrepository.com
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,jitpack.io
+  - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,elastic.com
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,apache.org
+  ## > V2EX
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,v2ex.co

@@ -207,9 +207,7 @@ payload:
   - DOMAIN-SUFFIX,doub.io
   - DOMAIN-SUFFIX,dowjones.com
   - DOMAIN-SUFFIX,dribbble.com
-  - DOMAIN-SUFFIX,dropbox.com
-  - DOMAIN-SUFFIX,dropboxapi.com
-  - DOMAIN-SUFFIX,dropboxusercontent.com
+
   - DOMAIN-SUFFIX,droplr.com
   - DOMAIN-SUFFIX,dueapp.com
   - DOMAIN-SUFFIX,duolingo.cn
@@ -297,9 +295,7 @@ payload:
   - DOMAIN-SUFFIX,gettyimages.com
   - DOMAIN-SUFFIX,gfw.press
   - DOMAIN-SUFFIX,gigacircle.com
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,github.io
-  - DOMAIN-SUFFIX,githubusercontent.com
+
   - DOMAIN-SUFFIX,globalvoices.org
   - DOMAIN-SUFFIX,gmocloud.com
   - DOMAIN-SUFFIX,go.jp

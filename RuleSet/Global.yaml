@@ -1,7 +1,4 @@
 payload:
-  # (DNS Cache Pollution)
-  # > Customer
-  - DOMAIN-SUFFIX,vmware.com
   # > Others
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,duboxcdn.com
@@ -470,17 +467,12 @@ payload:
   ## > Spark
   - DOMAIN-SUFFIX,smartmailcloud.com
   # > Stackexchange
-  - DOMAIN-SUFFIX,askubuntu.com
-  - DOMAIN-SUFFIX,blogoverflow.com
   - DOMAIN-SUFFIX,mathoverflow.net
   - DOMAIN-SUFFIX,serverfault.com
   - DOMAIN-SUFFIX,sstatic.net
   - DOMAIN-SUFFIX,stackapps.com
   - DOMAIN-SUFFIX,stackexchange.com
   - DOMAIN-SUFFIX,stackmod.blog
-  - DOMAIN-SUFFIX,stackoverflow.blog
-  - DOMAIN-SUFFIX,stackoverflow.com
-  - DOMAIN-SUFFIX,stackoverflowbusiness.com
   - DOMAIN-SUFFIX,stacksnippets.net
   - DOMAIN-SUFFIX,superuser.com
   - DOMAIN-SUFFIX,tex-talk.net
@@ -510,10 +502,6 @@ payload:
   # > Telekom
   - DOMAIN-SUFFIX,telekom.com
   - DOMAIN-SUFFIX,telekom.de
-  ## > TikTok-Global
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,ibytedtos.com
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
   # > Trustwave
   - DOMAIN-SUFFIX,trustwave.com
   # > Tsquare
@@ -526,10 +514,7 @@ payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,uplay.com
-  # > Ubuntu
-  - DOMAIN-SUFFIX,ubuntu.com
-  - DOMAIN-SUFFIX,ubuntu.net
-  # > Un
+
   # > Unpkg
   - DOMAIN-SUFFIX,unpkg.com
   ## > Unsplash
