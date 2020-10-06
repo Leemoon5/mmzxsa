@@ -1,29 +1,77 @@
 payload:
-# > Line
-  # > LINE Camera - Photo editor
-  - PROCESS-NAME,jp.naver.linecamera.android
-  # > LINE: Free Calls & Messages
-  - PROCESS-NAME,jp.naver.line.android
-  # > LINE Lite: Free Calls & Messages
-  - PROCESS-NAME,com.linecorp.linelite
-  # > domain
-  - DOMAIN-SUFFIX,lin.ee
-  - DOMAIN-SUFFIX,line-apps.com
-  - DOMAIN-SUFFIX,line-cdn.net
-  - DOMAIN-SUFFIX,line-scdn.net
-  - DOMAIN-SUFFIX,line.me
-  - DOMAIN-SUFFIX,line.naver.jp
-  - DOMAIN-SUFFIX,nhncorp.jp
-  - IP-CIDR,103.2.28.0/24,no-resolve
-  - IP-CIDR,103.2.30.0/23,no-resolve
-  - IP-CIDR,119.235.224.0/24,no-resolve
-  - IP-CIDR,119.235.232.0/24,no-resolve
-  - IP-CIDR,119.235.235.0/24,no-resolve
-  - IP-CIDR,119.235.236.0/23,no-resolve
-  - IP-CIDR,147.92.128.0/17,no-resolve
-  - IP-CIDR,203.104.128.0/19,no-resolve
-# > LineTV
-  - PROCESS-NAME,com.linecorp.linetv
-  - DOMAIN,d3c7rimkq79yfu.cloudfront.net
-  - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
-  - DOMAIN-SUFFIX,linetv.tw
+# > Games
+  # Hearthstone
+  - PROCESS-NAME,com.blizzard.wtcg.hearthstone
+  # GWENT: The Witcher Card Game
+  - PROCESS-NAME,com.cdprojektred.gwent
+# > News & Magazines
+  # Flipboard - Latest News, Top Stories & Lifestyle
+  - PROCESS-NAME,flipboard.app
+  # Reddit
+  - PROCESS-NAME,com.reddit.frontpage
+# > Tools
+  # Tor Browser
+  - PROCESS-NAME,org.torproject.torbrowser
+# > Yandex App
+  # Yandex
+  - PROCESS-NAME,ru.yandex.searchplugin
+  # Yandex Browser with Protect
+  - PROCESS-NAME,com.yandex.browser
+  # Yandex.Mail
+  - PROCESS-NAME,ru.yandex.mail
+  # Yandex.Translate – offline translator & dictionary
+  - PROCESS-NAME,ru.yandex.translate
+  # Yandex.Disk
+  - PROCESS-NAME,ru.yandex.disk
+  # Yandex Music and Podcasts — listen and download
+  - PROCESS-NAME,ru.yandex.music
+  # Yandex.Maps and Transport
+  - PROCESS-NAME,ru.yandex.yandexmaps
+  # Domain
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,yandex.st
+  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,nic.yandex
+  - IP-CIDR,100.43.64.0/19,no-resolve
+  - IP-CIDR,141.8.128.0/18,no-resolve
+  - IP-CIDR,141.8.174.0/24,no-resolve
+  - IP-CIDR,178.154.128.0/19,no-resolve
+  - IP-CIDR,178.154.131.0/24,no-resolve
+  - IP-CIDR,178.154.160.0/19,no-resolve
+  - IP-CIDR,178.154.192.0/19,no-resolve
+  - IP-CIDR,185.32.187.0/24,no-resolve
+  - IP-CIDR,199.21.96.0/22,no-resolve
+  - IP-CIDR,199.36.240.0/22,no-resolve
+  - IP-CIDR,213.180.192.0/19,no-resolve
+  - IP-CIDR,213.180.199.0/24,no-resolve
+  - IP-CIDR,213.180.202.0/24,no-resolve
+  - IP-CIDR,37.140.128.0/18,no-resolve
+  - IP-CIDR,37.9.112.0/24,no-resolve
+  - IP-CIDR,37.9.64.0/18,no-resolve
+  - IP-CIDR,37.9.64.0/24,no-resolve
+  - IP-CIDR,5.255.192.0/18,no-resolve
+  - IP-CIDR,5.255.192.0/24,no-resolve
+  - IP-CIDR,5.255.195.0/24,no-resolve
+  - IP-CIDR,5.255.196.0/24,no-resolve
+  - IP-CIDR,5.255.200.0/24,no-resolve
+  - IP-CIDR,5.255.252.0/24,no-resolve
+  - IP-CIDR,5.255.255.0/24,no-resolve
+  - IP-CIDR,5.45.192.0/18,no-resolve
+  - IP-CIDR,5.45.196.0/24,no-resolve
+  - IP-CIDR,5.45.202.0/24,no-resolve
+  - IP-CIDR,5.45.205.0/24,no-resolve
+  - IP-CIDR,5.45.213.0/24,no-resolve
+  - IP-CIDR,5.45.229.0/24,no-resolve
+  - IP-CIDR,5.45.240.0/24,no-resolve
+  - IP-CIDR,77.88.0.0/18,no-resolve
+  - IP-CIDR,77.88.35.0/24,no-resolve
+  - IP-CIDR,77.88.44.0/24,no-resolve
+  - IP-CIDR,77.88.54.0/24,no-resolve
+  - IP-CIDR,77.88.55.0/24,no-resolve
+  - IP-CIDR,77.88.8.0/24,no-resolve
+  - IP-CIDR,87.250.224.0/19,no-resolve
+  - IP-CIDR,87.250.247.0/24,no-resolve
+  - IP-CIDR,93.158.128.0/18,no-resolve
+  - IP-CIDR,95.108.128.0/17,no-resolve

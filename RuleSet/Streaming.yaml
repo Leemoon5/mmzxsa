@@ -294,7 +294,6 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
-
   # > Twitch
   - PROCESS-NAME,tv.twitch.android.app
   - DOMAIN-SUFFIX,jtvnw.net
@@ -309,3 +308,5 @@ payload:
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,dfp6rglgjqszk.cloudfront.net
+  # > Viki: Stream Asian TV Shows, Movies, and Kdramas
+  - PROCESS-NAME,com.viki.android

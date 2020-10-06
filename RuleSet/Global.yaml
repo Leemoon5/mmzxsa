@@ -1,4 +1,12 @@
 payload:
+  # > Fast
+  - DOMAIN-SUFFIX,fast.com
+  # > Speedtest
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,netspeedtestmaster.com
+  - DOMAIN,speedtest.macpaw.com
   # > Others
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,duboxcdn.com
@@ -125,7 +133,7 @@ payload:
   - DOMAIN-SUFFIX,comodoca4.com
   # > Computingreviews
   - DOMAIN-SUFFIX,computingreviews.com
-  ## > CordCloud
+  # > CordCloud
   - DOMAIN-SUFFIX,cordcloud.online
   - DOMAIN-SUFFIX,cordcloud.site
   - DOMAIN-SUFFIX,cordcloud.pro
@@ -135,7 +143,7 @@ payload:
   - DOMAIN-SUFFIX,csis-prod.s3.amazonaws.com
   # > Digicert
   - DOMAIN-SUFFIX,digicert.com
-  ## > Discord
+  # > Discord
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discord.media
   - DOMAIN-SUFFIX,discordapp.com
@@ -144,13 +152,13 @@ payload:
   - DOMAIN-SUFFIX,disqus.com
   - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN-SUFFIX,disqusservice.com
-  ## > Docker
+  # > Docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN,d1q6f0aelx0por.cloudfront.net
   - DOMAIN,d2wy8f7a9ursnm.cloudfront.net
   - DOMAIN,d36jcksde1wxzq.cloudfront.net
-  ## > DtDNS
+  # > DtDNS
   - DOMAIN-SUFFIX,3d-game.com
   - DOMAIN-SUFFIX,4irc.com
   - DOMAIN-SUFFIX,b0ne.com
@@ -171,7 +179,7 @@ payload:
   # > Duckduckgo
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,duck.com
-  ## > DynDNS
+  # > DynDNS
   - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,dyn.com
   - DOMAIN-SUFFIX,dyndns.org
@@ -180,11 +188,11 @@ payload:
   - DOMAIN-SUFFIX,from-sd.com
   - DOMAIN-SUFFIX,from-pr.com
   - DOMAIN-SUFFIX,is-a-hunter.com
-  ## > Dynu
+  # > Dynu
   - DOMAIN-SUFFIX,dynu.com
   - DOMAIN-SUFFIX,dynu.net
   - DOMAIN-SUFFIX,freeddns.org
-  ## > eBay
+  # > eBay
   - DOMAIN-SUFFIX,ebay.com
   - DOMAIN-SUFFIX,ebaystatic.com
   - DOMAIN-SUFFIX,ebayrtm.com
@@ -206,7 +214,7 @@ payload:
   # > Fontawesome
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,fortawesome.com
-  ## > FTChinese
+  # > FTChinese
   - DOMAIN-SUFFIX,ftchinese.com
   # > Getcomposer
   - DOMAIN-SUFFIX,getcomposer.org
@@ -224,7 +232,7 @@ payload:
   - DOMAIN-SUFFIX,globalsign.fr
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
-  ## > Heroku
+  # > Heroku
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
   - DOMAIN-SUFFIX,herokucdn.com
@@ -233,7 +241,7 @@ payload:
   - DOMAIN-SUFFIX,hpstore-china.com
   - DOMAIN-SUFFIX,hpstore.com
   - DOMAIN-SUFFIX,hpstore.corpmerchandise.com
-  ## > IBM
+  # > IBM
   - DOMAIN-SUFFIX,ibm.com
   - DOMAIN-SUFFIX,ibm.us
   - DOMAIN-SUFFIX,ibm.eu
@@ -251,13 +259,13 @@ payload:
   - DOMAIN-SUFFIX,imgurinc.com
   # > Infrapedia
   - DOMAIN-SUFFIX,infrapedia.com
-  ## > intel
+  # > intel
   - DOMAIN-SUFFIX,intel.com
-  ## > IPinfo
+  # > IPinfo
   - DOMAIN-SUFFIX,ipinfo.io
-  ## > ip-api
+  # > ip-api
   - DOMAIN-SUFFIX,pro.ip-api.com
-  ## > mgstage
+  # > mgstage
   - DOMAIN-SUFFIX,mstage.io
   # > Jquery
   - DOMAIN-SUFFIX,jquery.com
@@ -276,7 +284,7 @@ payload:
   - DOMAIN-SUFFIX,kingkongapp.com
   # > Knovel
   - DOMAIN-SUFFIX,DOMAIN-SUFFIX,knovel.com
-  ## > LastPass
+  # > LastPass
   - DOMAIN-SUFFIX,lastpass.com
   # > Letsencrypt
   - DOMAIN-SUFFIX,letsencrypt.org
@@ -286,15 +294,15 @@ payload:
   # > Linguee
   - DOMAIN-SUFFIX,linguee.com
   - DOMAIN-SUFFIX,deepl.com
-  ## > Linkedin
+  # > Linkedin
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
-  ## > Mega
+  # > Mega
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.nz
-  ## > MegaUp
+  # > MegaUp
   - DOMAIN-SUFFIX,megaup.net
-  ## > Mozilla
+  # > Mozilla
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,mozilla.org
@@ -312,16 +320,16 @@ payload:
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,sentry.prod.mozaws.net
-  ## > NaughtyAmerica
+  # > NaughtyAmerica
   - DOMAIN-SUFFIX,naughtyamerica.com
-  ## > NetworkLayer Technologies
+  # > NetworkLayer Technologies
   - DOMAIN-SUFFIX,networklayertech.net
   - IP-CIDR,104.143.229.0/24,no-resolve
   # > Nodejs
   - DOMAIN-SUFFIX,nodejs.org
   # > Npmjs
   - DOMAIN-SUFFIX,npmjs.com
-  ## > Nvidia
+  # > Nvidia
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.cn
   - DOMAIN-SUFFIX,geforce.cn
@@ -332,7 +340,7 @@ payload:
   - DOMAIN-SUFFIX,geforce.com.tw
   - DOMAIN-SUFFIX,nvidia.com.tw
   - DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
-  ## > Oracle
+  # > Oracle
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,oracleimg.com

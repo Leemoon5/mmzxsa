@@ -1,4 +1,6 @@
 payload:
+  # Microsoft Teams
+  - PROCESS-NAME,com.microsoft.teams
   # Microsoft Launcher
   - PROCESS-NAME,com.microsoft.launcher
   # Your Phone Companion - Link to Windows

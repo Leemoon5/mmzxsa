@@ -1,0 +1,13 @@
+payload:
+  # Octopus
+  - PROCESS-NAME,com.octopuscards.nfc_reader
+  # HSBC HK Mobile Banking
+  - PROCESS-NAME,hk.com.hsbc.hsbchkmobilebanking
+  # SC Mobile Hong Kong
+  - PROCESS-NAME,com.scb.breezebanking.hk
+  # BOCHK
+  - PROCESS-NAME,com.bochk.com
+  # Tap & Go by HKT
+  - PROCESS-NAME,com.hktpayment.tapngo
+  # AlipayHK
+  - PROCESS-NAME,hk.alipay.wallet

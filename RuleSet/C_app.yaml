@@ -32,6 +32,8 @@ payload:
   - PROCESS-NAME,com.chinamworld.main
   # > 工商银行
   - PROCESS-NAME,com.icbc
+  # > 云闪付
+  - PROCESS-NAME,com.unionpay
 # > App Store
   # > 华为应用商店
   - PROCESS-NAME,com.huawei.appmarket
