@@ -4,7 +4,6 @@ bind-address: '*'
 mode: rule
 # info / warning / error / debug / silent
 log-level: info
-
 external-controller: 127.0.0.1:5678
 hosts:
   'mtalk.google.com': 108.177.125.188
@@ -17,8 +16,8 @@ tun:
 dns:
   enable: true
   ipv6: false
-  listen: 0.0.0.0:5354
-  enhanced-mode: fake-ip # redir-host #fake-ip
+  listen: 0.0.0.0:53
+  enhanced-mode: redir-host # redir-host #fake-ip
   default-nameserver:
     - 1.0.0.1
     - 9.9.9.10
