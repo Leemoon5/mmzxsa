@@ -8,8 +8,6 @@ payload:
   - DOMAIN,search.avira.com
   - DOMAIN,us.weibo.com
   - DOMAIN-SUFFIX,0rz.tw
-  - DOMAIN-SUFFIX,1e100.net
-  - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,4bluestones.biz
   - DOMAIN-SUFFIX,4everProxy.com
@@ -54,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,apkleecher.com
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,apkmonk.com
-  - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
   - DOMAIN-SUFFIX,appdownloader.net
   - DOMAIN-SUFFIX,apple-dns.net
@@ -106,7 +103,6 @@ payload:
   - DOMAIN-SUFFIX,blogimg.jp
   - DOMAIN-SUFFIX,bloglovin.com
   - DOMAIN-SUFFIX,blogsmithmedia.com
-  - DOMAIN-SUFFIX,blogspot.hk
   - DOMAIN-SUFFIX,blogtd.org
   - DOMAIN-SUFFIX,bloomberg.cn
   - DOMAIN-SUFFIX,bloomberg.com
@@ -207,7 +203,6 @@ payload:
   - DOMAIN-SUFFIX,doub.io
   - DOMAIN-SUFFIX,dowjones.com
   - DOMAIN-SUFFIX,dribbble.com
-
   - DOMAIN-SUFFIX,droplr.com
   - DOMAIN-SUFFIX,dueapp.com
   - DOMAIN-SUFFIX,duolingo.cn
@@ -276,7 +271,6 @@ payload:
   - DOMAIN-SUFFIX,funkyimg.com
   - DOMAIN-SUFFIX,fxnetworks.com
   - DOMAIN-SUFFIX,fzlm.net
-  - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,gabia.net
   - DOMAIN-SUFFIX,gameloft.com
   - DOMAIN-SUFFIX,garena.com
@@ -295,13 +289,11 @@ payload:
   - DOMAIN-SUFFIX,gettyimages.com
   - DOMAIN-SUFFIX,gfw.press
   - DOMAIN-SUFFIX,gigacircle.com
-
   - DOMAIN-SUFFIX,globalvoices.org
   - DOMAIN-SUFFIX,gmocloud.com
   - DOMAIN-SUFFIX,go.jp
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,gongm.in
-  - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,goo.ne.jp
   - DOMAIN-SUFFIX,goodreaders.com
   - DOMAIN-SUFFIX,goodreads.com
@@ -309,7 +301,6 @@ payload:
   - DOMAIN-SUFFIX,gov
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,greatfire.org
-  - DOMAIN-SUFFIX,gstatic.cn
   - DOMAIN-SUFFIX,gumroad.com
   - DOMAIN-SUFFIX,gunsamerica.com
   - DOMAIN-SUFFIX,hbg.com

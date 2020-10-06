@@ -259,13 +259,6 @@ payload:
   - DOMAIN-SUFFIX,pro.ip-api.com
   ## > mgstage
   - DOMAIN-SUFFIX,mstage.io
-  ## > Jetbrains
-  - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,jetbrains.net
-  - DOMAIN-SUFFIX,datalore.io
-  - DOMAIN-SUFFIX,kotlinlang.org
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,jsdelivr.com
   # > Jquery
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jquerymobile.com
@@ -397,10 +390,6 @@ payload:
   # > PubMatic
   - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,pubmatic.co.jp
-  ## > Python
-  - DOMAIN-SUFFIX,python.org
-  - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,pypi.org
   # > Quantil
   - DOMAIN-SUFFIX,quantil.com
   ## > Quora
@@ -514,7 +503,6 @@ payload:
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,uplay.com
-
   # > Unpkg
   - DOMAIN-SUFFIX,unpkg.com
   ## > Unsplash
@@ -526,14 +514,6 @@ payload:
   - DOMAIN-SUFFIX,verisign.co.in
   - DOMAIN-SUFFIX,verisign.co.uk
   - DOMAIN-SUFFIX,verisign.com
-  - DOMAIN-SUFFIX,verisign.com.au
-  - DOMAIN-SUFFIX,verisign.com.br
-  - DOMAIN-SUFFIX,verisign.com.cn
-  - DOMAIN-SUFFIX,verisign.com.es
-  - DOMAIN-SUFFIX,verisign.com.hk
-  - DOMAIN-SUFFIX,verisign.com.sg
-  - DOMAIN-SUFFIX,verisign.com.tw
-  - DOMAIN-SUFFIX,verisign.com.vn
   - DOMAIN-SUFFIX,verisign.de
   - DOMAIN-SUFFIX,verisign.dk
   - DOMAIN-SUFFIX,verisign.es
@@ -603,15 +583,6 @@ payload:
   - DOMAIN-SUFFIX,zeit.co
   - DOMAIN-SUFFIX,zeit.sh
   - DOMAIN-SUFFIX,now.sh
-  # > Line
-  - DOMAIN-SUFFIX,line.me
-  - DOMAIN-SUFFIX,line-apps.com
-  - DOMAIN-SUFFIX,line-scdn.net
-  - DOMAIN-SUFFIX,naver.jp
-  - IP-CIDR,103.2.30.0/23,no-resolve
-  - IP-CIDR,125.209.208.0/20,no-resolve
-  - IP-CIDR,147.92.128.0/17,no-resolve
-  - IP-CIDR,203.104.144.0/21,no-resolve
   # > Akamai
   - DOMAIN,a248.e.akamai.net
   - DOMAIN,a771.dscq.akamai.net

@@ -1,4 +1,11 @@
 payload:
+  # > Jetbrains
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,datalore.io
+  - DOMAIN-SUFFIX,kotlinlang.org
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.com
   # > Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
@@ -22,6 +29,10 @@ payload:
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,gitlab-static.net
   - DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+  # > Python
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.org
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,ubuntu.net

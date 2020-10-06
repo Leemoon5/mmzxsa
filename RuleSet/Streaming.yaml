@@ -166,6 +166,7 @@ payload:
   - PROCESS-NAME,com.linecorp.linetv
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN,d3c7rimkq79yfu.cloudfront.net
+  - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
   # > LiTV
   - PROCESS-NAME,com.litv.mobile.gp.litv
   - DOMAIN-SUFFIX,litv.tv
