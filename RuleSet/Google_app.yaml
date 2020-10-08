@@ -81,3 +81,5 @@ payload:
   - PROCESS-NAME,com.google.android.apps.maps
   # Google Translate
   - PROCESS-NAME,com.google.android.apps.translate
+  # Other
+  - PROCESS-NAME,com.google.android.apps.tips

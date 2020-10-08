@@ -1,0 +1,4 @@
+payload:
+  # Openclash
+  - IP-CIDR,198.18.0.1/16,no-resolve
+  - DOMAIN-SUFFIX,m.hao123.com
