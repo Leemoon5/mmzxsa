@@ -22,3 +22,4 @@ payload:
   # > Google
   - DOMAIN,dl.google.com
   - DOMAIN-SUFFIX,googletraveladservices.com
+  - DOMAIN-SUFFIX,googlezip.net

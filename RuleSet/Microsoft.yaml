@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,acompli.com
   - DOMAIN-SUFFIX,acompli.net
+  - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,aspnetcdn.com
