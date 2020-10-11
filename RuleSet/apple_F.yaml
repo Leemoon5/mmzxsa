@@ -1,0 +1,89 @@
+payload:
+  # App Store
+  # Store content such as apps, books, and music
+  - DOMAIN-SUFFIX,apps.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN,ppq.apple.com
+  # > App Store Connect
+  - DOMAIN,appstoreconnect.apple.com
+  - DOMAIN,iosapps-ssl.itunes.apple.com
+  - DOMAIN,itcmobile.itunes.apple.com
+  # Find My
+  - DOMAIN,fmfmobile.icloud.com
+  - DOMAIN,fmipmobile.icloud.com
+  - DOMAIN,statici.icloud.com
+  # > iCloud email
+  - DOMAIN-SUFFIX,mail.icloud.com.cn
+  - DOMAIN-SUFFIX,mail.me.com
+  # > Apple Music
+  - DOMAIN,aod.itunes.apple.com
+  - DOMAIN,mvod.itunes.apple.com
+  - DOMAIN,streamingaudio.itunes.apple.com
+  # > Apple News
+  - DOMAIN,gateway.icloud.com,PROXY
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.comscoreresearch.com
+  # Siri
+  - DOMAIN,guzzoni.apple.com
+  # Software Update
+  # > macOS updates
+  - DOMAIN,gg.apple.com
+  - DOMAIN,gnf-mdn.apple.com
+  - DOMAIN,gnf-mr.apple.com
+  - DOMAIN,gs.apple.com
+  - DOMAIN,ig.apple.com
+  - DOMAIN,skl.apple.com
+  - DOMAIN,swcdn.apple.com
+  - DOMAIN,swdist.apple.com
+  - DOMAIN,swdownload.apple.com
+  - DOMAIN,swpost.apple.com
+  - DOMAIN,swscan.apple.com
+  # > macOS Recovery
+  - DOMAIN,oscdn.apple.com
+  - DOMAIN,osrecovery.apple.com
+  # > iOS updates
+  - DOMAIN,appldnld.apple.com
+  - DOMAIN,ns.itunes.apple.com
+  # > iOS, tvOS, and macOS
+  - DOMAIN,mesu.apple.com
+  - DOMAIN,updates.cdn-apple.com
+  - DOMAIN,updates-http.cdn-apple.com
+  - DOMAIN,xp.apple.com
+  # TV
+  - DOMAIN-SUFFIX,tv.apple.com
+  - DOMAIN,hls.itunes.apple.com
+  - DOMAIN,hls-amt.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
+  # TestFlight
+  - DOMAIN,beta.apple.com
+  - DOMAIN,testflight.apple.com
+  # iCloud
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN,www-cdn.icloud.com.akadns.net
+  # Apple
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - IP-CIDR,17.0.0.0/8,no-resolve
+  - IP-CIDR,63.92.224.0/19,no-resolve
+  - IP-CIDR,65.199.22.0/23,no-resolve
+  - IP-CIDR,139.178.128.0/18,no-resolve
+  - IP-CIDR,144.178.0.0/19,no-resolve
+  - IP-CIDR,192.35.50.0/24,no-resolve
+  - IP-CIDR,198.183.17.0/24,no-resolve
+  - IP-CIDR,205.180.175.0/24,no-resolve
