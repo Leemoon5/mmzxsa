@@ -9,6 +9,7 @@ clash-for-android:
 external-controller: 127.0.0.1:5678
 hosts:
   'mtalk.google.com': 108.177.125.188
+  't.cn': 203.107.55.116
 tun:
   enable: true
   stack: system

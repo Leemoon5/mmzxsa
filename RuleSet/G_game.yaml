@@ -1,11 +1,25 @@
 payload:
+  # Angry Birds 2
+  - PROCESS-NAME,com.rovio.baba
+  # Tacticool - 5v5 shooter
+  - PROCESS-NAME,com.panzerdog.tacticool
+  # Teamfight Tactics: League of Legends Strategy Game
+  - PROCESS-NAME,com.riotgames.league.teamfighttactics
+  # League of Legends: Wild Rift
+  - PROCESS-NAME,com.riotgames.league.wildrift
+  # Plants vs. Zombies
+  - PROCESS-NAME,com.ea.game.pvzfree_row
+  - PROCESS-NAME,com.ea.game.pvz2_na
   # > Blizzard
+  - PROCESS-NAME,com.blizzard.wtcg.hearthstone
+  - PROCESS-NAME,com.blizzard.messenger
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,blzddist1-a.akamaihd.net
   # > Steam
+  - PROCESS-NAME,com.valvesoftware.android.steam.community
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamcdn
   - DOMAIN-KEYWORD,steamstore
