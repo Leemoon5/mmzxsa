@@ -57,17 +57,21 @@ payload:
   - DOMAIN-SUFFIX,channel4.com
   # > Amazon Prime Video
   - PROCESS-NAME,com.amazon.avod.thirdp
+  - DOMAIN,atv-ps.amazon.com
+  - DOMAIN,avodmp4s3ww-a.akamaihd.net
+  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+  - DOMAIN,d22qjgkvxw22r6.cloudfront.net
+  - DOMAIN,d25xi40x97liuc.cloudfront.net
+  - DOMAIN,d27xxe7juh1us6.cloudfront.net
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net
+  - DOMAIN,fls-na.amazon.com
+  - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,amazonvideo.com
+  - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,primevideo.com
-  - DOMAIN,avodmp4s3ww-a.akamaihd.net
-  - DOMAIN,d25xi40x97liuc.cloudfront.net
-  - DOMAIN,dmqdd6hw24ucf.cloudfront.net
-  - DOMAIN,dmqdd6hw24ucf.cloudfront.net
-  - DOMAIN,d22qjgkvxw22r6.cloudfront.net
-  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-  - DOMAIN-KEYWORD,avoddashs
+
   # > Bahamut
   - PROCESS-NAME,tw.com.gamer.android.animad
   - DOMAIN-SUFFIX,bahamut.com.tw
@@ -284,16 +288,18 @@ payload:
   - DOMAIN,hamifans.emome.net
   # > TikTok
   - PROCESS-NAME,com.ss.android.ugc.trill
+  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ipstatp.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-KEYWORD,-tiktokcdn-com
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+
   # > Twitch
   - PROCESS-NAME,tv.twitch.android.app
   - DOMAIN-SUFFIX,jtvnw.net

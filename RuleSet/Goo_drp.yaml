@@ -41,3 +41,7 @@ payload:
   - DOMAIN-SUFFIX,dropbox.tech
   - DOMAIN-SUFFIX,dropboxcaptcha.com
   - DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
+  # > Box
+  - PROCESS-NAME,com.box.android
+  - DOMAIN-SUFFIX,box.com
+  - DOMAIN-SUFFIX,box.net

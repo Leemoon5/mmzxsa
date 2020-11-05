@@ -73,7 +73,7 @@ payload:
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,badoo.com
   - DOMAIN-SUFFIX,bandisoft.com
-  - DOMAIN-SUFFIX,bandwagonDOMAIN.com
+  - DOMAIN-SUFFIX,bandwagon.com
   - DOMAIN-SUFFIX,bandwagonhost.com
   - DOMAIN-SUFFIX,bangkokpost.com
   - DOMAIN-SUFFIX,bankmobilevibe.com
@@ -114,8 +114,6 @@ payload:
   - DOMAIN-SUFFIX,boomtrain.com
   - DOMAIN-SUFFIX,boslife.net
   - DOMAIN-SUFFIX,botanwang.com
-  - DOMAIN-SUFFIX,box.com
-  - DOMAIN-SUFFIX,box.net
   - DOMAIN-SUFFIX,boxun.com
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,broadcast.co.nz

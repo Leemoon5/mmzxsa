@@ -1,0 +1,10 @@
+payload:
+  - PROCESS-NAME,Notion.exe
+  - PROCESS-NAME,notion.id
+  - DOMAIN-SUFFIX,loggly.com
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,amazonaws.com
